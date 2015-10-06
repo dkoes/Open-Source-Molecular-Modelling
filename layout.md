@@ -5,6 +5,7 @@ Chemoinformatics_is_a_field_of__.tex
 Align_it_is_a_successor__.tex
 section_QSAR__.tex
 section_Quantum_Chemistry__.tex
+Ascalaph_Designer_is_a_molecular__.tex
 section_Protein_Structure_Modeling__.tex
 section_Protein_Dynamics_Modeling__.tex
 section_Virtual_Screening_subsection_Ligand__.tex
