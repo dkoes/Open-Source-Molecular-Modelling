@@ -4,6 +4,7 @@ section_Cheminformatics__.tex
 Chemoinformatics_is_a_field_of__.tex
 Align_it_is_a_successor__.tex
 section_QSAR__.tex
+BlueDesc_Descriptor_Calculator_is_a__.tex
 section_Quantum_Chemistry__.tex
 Ascalaph_Designer_is_a_molecular__.tex
 section_Protein_Structure_Modeling__.tex
