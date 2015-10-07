@@ -12,6 +12,7 @@ AZOrange_is_a_machine_learning__.tex
 Chemistry_aware_model_builder_stands__.tex
 section_Quantum_Chemistry__.tex
 Ascalaph_Designer_is_a_molecular__.tex
+cclib_is_a_library_of__.tex
 section_Protein_Structure_Modeling__.tex
 section_Protein_Dynamics_Modeling__.tex
 section_Virtual_Screening_subsection_Ligand__.tex
