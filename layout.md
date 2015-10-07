@@ -4,6 +4,7 @@ section_Cheminformatics__.tex
 Chemoinformatics_is_a_field_of__.tex
 Bioclipse_applies_for_chemo_and__.tex
 Align_it_is_a_successor__.tex
+Biological_Data_Interactive_Clustering_Explorer__.tex
 section_QSAR__.tex
 BlueDesc_Descriptor_Calculator_is_a__.tex
 AZOrange_is_a_machine_learning__.tex
