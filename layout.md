@@ -9,6 +9,7 @@ Biscu_it_is_a_set__.tex
 section_QSAR__.tex
 BlueDesc_Descriptor_Calculator_is_a__.tex
 AZOrange_is_a_machine_learning__.tex
+Chemistry_aware_model_builder_stands__.tex
 section_Quantum_Chemistry__.tex
 Ascalaph_Designer_is_a_molecular__.tex
 section_Protein_Structure_Modeling__.tex
