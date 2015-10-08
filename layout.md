@@ -10,6 +10,7 @@ Helium_provides_building_blocks_that__.tex
 Indigo_is_a_cheminformatics_toolkit__.tex
 JOELib_JOELib2_is_a_cheminformatics__.tex
 The_LICSS_System_Excel_CDK__.tex
+MayaChemTools_is_a_growing_collection__.tex
 section_QSAR__.tex
 BlueDesc_Descriptor_Calculator_is_a__.tex
 AZOrange_is_a_machine_learning__.tex
