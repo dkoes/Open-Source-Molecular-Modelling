@@ -15,6 +15,7 @@ section_QSAR__.tex
 BlueDesc_Descriptor_Calculator_is_a__.tex
 AZOrange_is_a_machine_learning__.tex
 Chemistry_aware_model_builder_which__.tex
+CheS_Mapper_Chemical_Space_Mapper__.tex
 section_Quantum_Chemistry__.tex
 Ascalaph_Designer_is_a_molecular__.tex
 cclib_is_a_library_of__.tex
