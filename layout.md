@@ -22,6 +22,7 @@ section_Quantum_Chemistry__.tex
 Ascalaph_Designer_is_a_molecular__.tex
 cclib_is_a_library_of__.tex
 JANPA_is_a_package_for__.tex
+CP2K_is_a_quantum_chemistry__.tex
 section_Protein_Structure_Modeling__.tex
 section_Protein_Dynamics_Modeling__.tex
 section_Virtual_Screening_subsection_Ligand__.tex
