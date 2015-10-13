@@ -15,6 +15,7 @@ ConvertMAS_is_a_molecule_converter__.tex
 The_Chemistry_Development_Kit_CDK__.tex
 The_open_drug_discovery_toolkit__.tex
 Open3DALIGN_is_a_command_line__.tex
+Open3DGRID_is_a_tool_aimed__.tex
 section_QSAR__.tex
 BlueDesc_Descriptor_Calculator_is_a__.tex
 AZOrange_is_a_machine_learning__.tex
