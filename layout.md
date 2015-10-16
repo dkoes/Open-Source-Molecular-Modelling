@@ -17,6 +17,7 @@ The_open_drug_discovery_toolkit__.tex
 Open3DALIGN_is_a_command_line__.tex
 Open3DGRID_is_a_tool_aimed__.tex
 Shape_it_is_a_tool__.tex
+Shape_is_a_program_to__.tex
 section_QSAR__.tex
 BlueDesc_Descriptor_Calculator_is_a__.tex
 AZOrange_is_a_machine_learning__.tex
