@@ -22,6 +22,7 @@ sdf2xyz2sdf_consists_of_two_programs__.tex
 ChemmineR_is_an_R_package__.tex
 The_fmcsR_is_an_R__.tex
 Strip_it_is_a_program__.tex
+SMSD_is_a_library_written__.tex
 section_QSAR__.tex
 BlueDesc_Descriptor_Calculator_is_a__.tex
 AZOrange_is_a_machine_learning__.tex
