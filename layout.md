@@ -26,6 +26,7 @@ SMSD_is_a_library_written__.tex
 Som_itTM_provides_a_number__.tex
 Screening_assistant_2_SA2_is__.tex
 Open_molecule_generator_OMG_is__.tex
+MoleCalc_is_a_molecular_weight__.tex
 section_QSAR__.tex
 BlueDesc_Descriptor_Calculator_is_a__.tex
 AZOrange_is_a_machine_learning__.tex
