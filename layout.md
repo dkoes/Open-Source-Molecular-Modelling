@@ -31,6 +31,7 @@ Molsketch_is_a_2D_molecular__.tex
 Filter_it_is_a_program__.tex
 SMARTCyp_is_a_tool_to__.tex
 BALL_Biochemical_Algorithms_Library_is__.tex
+cApp_is_a_Java_software__.tex
 section_QSAR__.tex
 BlueDesc_Descriptor_Calculator_is_a__.tex
 AZOrange_is_a_machine_learning__.tex
