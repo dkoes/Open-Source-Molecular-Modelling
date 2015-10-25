@@ -42,6 +42,7 @@ Frowns_is_a_chemoinformatics_toolkit__.tex
 Weka_provides_machine_learning_algorithms__.tex
 Toxtree_is_a_Java_application__.tex
 mol2chemfig_is_a_Pyhton_program__.tex
+NWChem_aims_to_provide_its__.tex
 section_QSAR__.tex
 BlueDesc_Descriptor_Calculator_is_a__.tex
 AZOrange_is_a_machine_learning__.tex
