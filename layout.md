@@ -47,6 +47,7 @@ Chemistry_aware_model_builder_which__.tex
 CheS_Mapper_Chemical_Space_Mapper__.tex
 The_CORAL_correlation_and_logic__.tex
 Topological_maximum_cross_correlation_descriptors__.tex
+VIDEAN_Visual_and_Interactive_Descriptor__.tex
 section_Quantum_Chemistry__.tex
 Ascalaph_Designer_is_a_molecular__.tex
 cclib_is_a_library_of__.tex
