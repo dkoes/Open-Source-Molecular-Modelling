@@ -38,6 +38,7 @@ CORALSEA_is_a_software_for__.tex
 The_CurlySMILES_is_a_collection__.tex
 Drug_Extraction_is_a_Java__.tex
 FragIt_is_a_general_fragmentation__.tex
+Frowns_is_a_chemoinformatics_toolkit__.tex
 section_QSAR__.tex
 BlueDesc_Descriptor_Calculator_is_a__.tex
 AZOrange_is_a_machine_learning__.tex
