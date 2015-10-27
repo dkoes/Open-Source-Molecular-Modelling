@@ -74,7 +74,7 @@ Psi4_is_a_suite_of__.tex
 PyQuante_Python_Quantum_Chemistry_is__.tex
 ABINIT_is_a_quantum_package__.tex
 Siam_Quantum_SQ_is_a__.tex
-RMG_is_within_a_real__.tex
+RMG_is_within_the_framwork__.tex
 section_Protein_Structure_Modeling__.tex
 section_Protein_Dynamics_Modeling__.tex
 section_Virtual_Screening_subsection_Ligand__.tex
