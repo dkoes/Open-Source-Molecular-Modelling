@@ -34,7 +34,6 @@ BALL_Biochemical_Algorithms_Library_is__.tex
 cApp_is_a_Java_software__.tex
 chemf_is_a_purely_functional__.tex
 Chemtool_is_a_program_for__.tex
-CORALSEA_is_a_software_for__.tex
 The_CurlySMILES_is_a_collection__.tex
 Drug_Extraction_is_a_Java__.tex
 FragIt_is_a_general_fragmentation__.tex
