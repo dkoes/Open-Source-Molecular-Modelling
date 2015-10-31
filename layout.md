@@ -77,6 +77,7 @@ QMCPACK_is_a_QMC_simulation__.tex
 ACES_II_is_a_collection__.md
 BigDFT_is_a_quantum_program__.tex
 Dacapo_is_a_total_energy__.tex
+Ergo_is_a_quantum_chemistry__.tex
 section_Protein_Structure_Modeling__.tex
 section_Protein_Dynamics_Modeling__.tex
 section_Virtual_Screening_subsection_Ligand__.tex
