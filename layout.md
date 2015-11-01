@@ -52,6 +52,7 @@ section_QSAR__.tex
 Quantitative_Structure_Activity_Relationship_Q__.tex
 BlueDesc_descriptor_calculator_is_a__.tex
 AZOrange_is_a_machine_learning__.tex
+PaDEL_Descriptor_is_a_software__.tex
 Chemistry_aware_model_builder_which__.tex
 CheS_Mapper_Chemical_Space_Mapper__.tex
 The_CORAL_correlation_and_logic__.tex
