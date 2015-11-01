@@ -48,7 +48,6 @@ NWChem_aims_to_provide_its__.tex
 OrChem_is_an_Oracle_chemistry__.tex
 OSRA_allows_user_to_convert__.tex
 Mychem_is_a_chemoinformatics_extension__.tex
-PaDEL_Descriptor_is_a_software__.tex
 section_QSAR__.tex
 Quantitative_Structure_Activity_Relationship_Q__.tex
 BlueDesc_descriptor_calculator_is_a__.tex
