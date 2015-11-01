@@ -69,6 +69,7 @@ ccwatcher_is_a_Python_tool__.tex
 MPQC_Massively_Parallel_Quantum_Chemistry__.tex
 Nancy_EX_is_a_code_for__.tex
 Psi4_is_a_suite_of__.tex
+Pyscf_is_a_python_library__.tex
 PyQuante_Python_Quantum_Chemistry_is__.tex
 ABINIT_is_a_quantum_package__.tex
 Siam_Quantum_SQ_is_a__.tex
