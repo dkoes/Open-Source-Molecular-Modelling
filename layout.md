@@ -9,6 +9,7 @@ Open_Babel_is_a_C__.tex
 Biscu_it_is_a_set__.tex
 RDKit_is_a_toolkit_of__.tex
 Helium_provides_building_blocks_that__.tex
+Chemfig_is_a_tool_to__.tex
 Indigo_is_a_cheminformatics_toolkit__.tex
 JOELib_JOELib2_is_a_cheminformatics__.tex
 The_LICSS_System_Excel_CDK__.tex
