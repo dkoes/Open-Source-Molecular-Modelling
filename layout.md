@@ -50,6 +50,7 @@ OSRA_allows_user_to_convert__.tex
 Mychem_is_a_chemoinformatics_extension__.tex
 PaDEL_Descriptor_is_a_software__.tex
 section_QSAR__.tex
+Quantitative_Structure_Activity_Relationship_Q__.tex
 BlueDesc_descriptor_calculator_is_a__.tex
 AZOrange_is_a_machine_learning__.tex
 Chemistry_aware_model_builder_which__.tex
