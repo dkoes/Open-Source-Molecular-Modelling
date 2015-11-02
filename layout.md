@@ -74,7 +74,7 @@ orbkit_is_a_post_processing__.tex
 QUANTUM_SPRESSO_open_source_package__.tex
 Geac_gaussian_ESI_automated_creator__.tex
 ccwatcher_is_a_Python_tool__.tex
-MPQC_Massively_Parallel_Quantum_Chemistry__.tex
+MPQC_massively_parallel_quantum_chemistry__.tex
 Nancy_EX_is_a_code_for__.tex
 Psi4_is_a_suite_of__.tex
 Pyscf_is_a_python_library__.tex
