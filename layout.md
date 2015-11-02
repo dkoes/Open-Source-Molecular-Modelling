@@ -78,7 +78,7 @@ MPQC_massively_parallel_quantum_chemistry__.tex
 Nancy_EX_is_a_code_for__.tex
 Psi4_is_a_suite_of__.tex
 Pyscf_is_a_python_library__.tex
-PyQuante_Python_Quantum_Chemistry_is__.tex
+PyQuante_Python_quantum_chemistry_is__.tex
 ABINIT_is_a_quantum_package__.tex
 Siam_Quantum_SQ_is_a__.tex
 RMG_is_within_the_framework__.tex
