@@ -34,7 +34,7 @@ MoleCalc_is_a_molecular_weight__.tex
 Molsketch_is_a_2D_molecular__.tex
 Filter_it_is_a_program__.tex
 SMARTCyp_is_a_tool_to__.tex
-BALL_Biochemical_Algorithms_Library_is__.tex
+BALL_biochemical_algorithms_library_is__.tex
 cApp_is_a_Java_software__.tex
 chemf_is_a_purely_functional__.tex
 Chemtool_is_a_program_for__.tex
