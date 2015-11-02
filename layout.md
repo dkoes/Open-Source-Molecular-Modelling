@@ -4,7 +4,7 @@ section_Cheminformatics__.tex
 Chemoinformatics_is_a_field_of__.tex
 Bioclipse_applies_for_chemo_and__.tex
 Align_it_is_a_successor__.tex
-Biological_Data_Interactive_Clustering_Explorer__.tex
+Biological_data_interactive_clustering_Explorer__.tex
 SketchEl_is_a_molecular_sketching__.tex
 Open_Babel_is_a_C__.tex
 Biscu_it_is_a_set__.tex
