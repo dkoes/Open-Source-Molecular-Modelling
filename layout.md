@@ -71,7 +71,7 @@ The_CCP1GUI_provides_a_graphical__.tex
 QMtool_is_a_graphical_user__.tex
 QMForge_is_aimed_at_analyzing__.tex
 orbkit_is_a_post_processing__.tex
-QUANTUM_SPRESSO_opEn_Source_Package__.tex
+QUANTUM_SPRESSO_open_source_package__.tex
 Geac_Gaussian_ESI_Automated_Creator__.tex
 ccwatcher_is_a_Python_tool__.tex
 MPQC_Massively_Parallel_Quantum_Chemistry__.tex
