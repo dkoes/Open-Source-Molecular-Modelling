@@ -16,7 +16,7 @@ JOELib_JOELib2_is_a_cheminformatics__.tex
 The_LICSS_System_Excel_CDK__.tex
 MayaChemTools_is_a_growing_collection__.tex
 ConvertMAS_is_a_molecule_converter__.tex
-The_Chemistry_Development_Kit_CDK__.tex
+The_chemistry_development_kit_CDK__.tex
 The_open_drug_discovery_toolkit__.tex
 Open3DALIGN_is_a_command_line__.tex
 Open3DGRID_is_a_tool_aimed__.tex
