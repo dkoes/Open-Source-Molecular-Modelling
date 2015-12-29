@@ -97,6 +97,7 @@ section_Protein_Structure_Modeling__.tex
 section_Protein_Dynamics_Modeling__.tex
 section_Virtual_Screening_subsection_Ligand__.tex
 MOLA_is_a_tool_used__.tex
+PyRx_is_a_structure_based__.tex
 section_De_novo_and_ligand__.tex
 de_novo_design_is_an__.tex
 AutoGrow_3_0_attempts_to__.tex
