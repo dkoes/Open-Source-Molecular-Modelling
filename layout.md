@@ -100,6 +100,7 @@ MOLA_is_a_tool_used__.tex
 PyRx_is_a_structure_based__.tex
 rDock_is_a_molecular_docking__.tex
 AutoDock_presents_docking_tools_to__1.tex
+AutoDock_4_is_a_tool__1.tex
 AutoDock_Vina_accomplishes_important_improvements__.tex
 AutoDock_4_is_a_tool__.tex
 section_De_novo_and_ligand__.tex
