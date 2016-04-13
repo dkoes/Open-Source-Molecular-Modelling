@@ -49,7 +49,6 @@ section_QSAR__.tex
 Quantitative_Structure_Activity_Relationship_QSAR__.tex
 begin_table_begin_tabular_l__.tex
 AZOrange_is_a_machine_learning__.tex
-The_BlueDesc_descriptor_calculator_is__.tex
 Chemistry_aware_model_builder_camb__.tex
 CheS_Mapper_chemical_space_mapper__.tex
 MolSig_cite_Carbonell_2013_computes_molecular__.tex
