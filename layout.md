@@ -55,7 +55,6 @@ begin_table_begin_tabular_l__1.tex
 paragraph_textit_Ab_initio_Calcuation__.tex
 JANPA_is_a_package_for__.tex
 CP2K_is_a_quantum_chemistry__.tex
-begin_itemize_item_end_itemize__.tex
 QMtool_is_a_graphical_user__.tex
 QMForge_is_aimed_at_analyzing__.tex
 orbkit_is_a_post_processing__.tex
