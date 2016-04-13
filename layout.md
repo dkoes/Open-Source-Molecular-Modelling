@@ -46,7 +46,6 @@ OrChem_is_an_Oracle_chemistry__.tex
 OSRA_allows_user_to_convert__.tex
 Mychem_is_a_chemoinformatics_extension__.tex
 checkmol_matchmol_url_http_merian__.tex
-section_QSAR_ADMET_Modeling__.tex
 section_QSAR_ADMET_Modeling_Quantitative__.tex
 begin_table_begin_tabular_l__.tex
 paragraph_Descriptor_Calculators_4D_Flexible__.tex
