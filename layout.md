@@ -52,6 +52,7 @@ AZOrange_is_a_machine_learning__.tex
 The_BlueDesc_descriptor_calculator_is__.tex
 Chemistry_aware_model_builder_camb__.tex
 CheS_Mapper_chemical_space_mapper__.tex
+MolSig_is_an_algorithm_written__.tex
 Open3DALIGN_cite_Tosco_2011_Open3DGrid_and__.tex
 PaDEL_Descriptor_cite_Yap_2010_is__.tex
 QSAR_tools_is_a_set__.tex
@@ -59,7 +60,6 @@ SMARTCyp_is_a_QSAR_model__.tex
 Topological_maximum_cross_correlation_descriptors__.tex
 Toxtree_is_a_Java_GUI__.tex
 VIDEAN_visual_and_interactive_descriptor__.tex
-MolSig_is_an_algorithm_written__.tex
 section_Quantum_Chemistry__.tex
 These_days_there_is_a__.tex
 Ascalaph_Designer_is_a_molecular__.tex
