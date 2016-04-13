@@ -19,7 +19,6 @@ MayaChemTools_is_a_growing_collection__.tex
 ConvertMAS_is_a_molecule_converter__.tex
 The_chemistry_development_kit_CDK__.tex
 The_open_drug_discovery_toolkit__.tex
-Open3DGRID_is_a_tool_aimed__.tex
 Shape_it_is_a_tool__.tex
 Shape_is_a_program_to__.tex
 sdf2xyz2sdf_consists_of_two_programs__.tex
@@ -56,6 +55,7 @@ The_BlueDesc_descriptor_calculator_is__.tex
 Chemistry_aware_model_builder_camb__.tex
 CheS_Mapper_chemical_space_mapper__.tex
 Open3DALIGN_is_a_command_line__.tex
+Open3DGRID_is_a_tool_aimed__.tex
 PaDEL_Descriptor_cite_Yap_2010_is__.tex
 QSAR_tools_provides_Python_scripts__.tex
 Topological_maximum_cross_correlation_descriptors__.tex
