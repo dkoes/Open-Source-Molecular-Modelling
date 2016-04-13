@@ -7,6 +7,16 @@ A focus of ACES is the use of MBPT and the coupled-cluster approximation to reli
 
 BigDFT \cite{Genovese_2008,Mohr_2014,Mohr_2015} 1performs \textit{ab initio} calculations using Daubechies wavelets and has the capability to use a linear scaling method.  Periodic systems, surfaces and isolated systems can be simulated with the proper boundary conditions. It is included as part of ABINIT.
 
+CP2K \cite{Hutter_2013} performs simulations of solid state, liquid, molecular and biological systems. Its particular focus is massively parallel and linear scaling electronic structure methods and state-of-the-art \textit{ab-initio} molecular dynamics (AIMD) simulations. It is optimized for the mixed Gaussian and Plane-Waves method using pseudopotentials and can run on parallel and on GPUs.
+
+Dacapo is a total energy program that uses density functional theory. It can do molecular dynamics/structural relaxation while solving the Schrodinger equations. It has support for parallel execution and is used through the Atomic SImulation Environment (ASE) \cite{Bahn_2002}
+
+ErgoSCM \cite{Rudberg_2011} is a quantum chemistry program for large-scale self-consistent field calculations. It performs electronic structure calculations using Hartree-Fock and Kohn-Sham density functional theory and achieves linear scaling for both CPU usage and memory utilization.
+
+ERKALE \cite{Lehtola_2012} is designed to compute X-ray properties, such as ground-state electron momentum densities and Compton profiles, and core (x-ray absorption and x-ray Raman scattering) and valence electron excitation spectra of atoms and molecules. 
+
 
 \paragraph{Visualization}
 CCP1GUI provides a graphical user interface to various computational chemistry codes with an emphasis on integration with the GAMESS-UK quantum chemistry program.
+
+ccwatcher provides a graphical interface for the monitoring of computational chemistry programs.
