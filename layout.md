@@ -70,7 +70,6 @@ ABINIT_is_a_quantum_package__.tex
 Siam_quantum_SQ_is_a__.tex
 RMG_is_within_the_framework__.tex
 QMCPACK_is_a_QMC_simulation__.tex
-ACES_cite_Lotrich_2008_is_a__.md
 BigDFT_is_a_quantum_program__.tex
 Dacapo_is_a_total_energy__.tex
 Ergo_is_a_quantum_chemistry__.tex
