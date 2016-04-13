@@ -45,6 +45,7 @@ NWChem_aims_to_provide_its__.tex
 OrChem_is_an_Oracle_chemistry__.tex
 OSRA_allows_user_to_convert__.tex
 Mychem_is_a_chemoinformatics_extension__.tex
+checkmol_matchmol_url_http_merian__.tex
 section_QSAR__.tex
 Quantitative_Structure_Activity_Relationship_QSAR__.tex
 begin_table_begin_tabular_l__.tex
