@@ -40,7 +40,6 @@ The_CurlySMILES_is_a_collection__.tex
 FragIt_is_a_general_fragmentation__.tex
 Frowns_is_a_chemoinformatics_toolkit__.tex
 Weka_provides_machine_learning_algorithms__.tex
-Toxtree_is_a_Java_application__.tex
 mol2chemfig_is_a_Pyhton_program__.tex
 NWChem_aims_to_provide_its__.tex
 OrChem_is_an_Oracle_chemistry__.tex
@@ -58,6 +57,7 @@ PaDEL_Descriptor_cite_Yap_2010_is__.tex
 QSAR_tools_is_a_set__.tex
 SMARTCyp_is_a_QSAR_model__.tex
 Topological_maximum_cross_correlation_descriptors__.tex
+Toxtree_is_a_Java_application__.tex
 VIDEAN_visual_and_interactive_descriptor__.tex
 MolSig_is_an_algorithm_written__.tex
 section_Quantum_Chemistry__.tex
