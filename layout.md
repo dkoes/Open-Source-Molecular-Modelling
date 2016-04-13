@@ -68,7 +68,6 @@ PyQuante_Python_quantum_chemistry_is__.tex
 Siam_quantum_SQ_is_a__.tex
 RMG_is_within_the_framework__.tex
 QMCPACK_is_a_QMC_simulation__.tex
-Ergo_is_a_quantum_chemistry__.tex
 ERKALE_is_a_quantum_chemistry__.tex
 GPAW_is_a_DFT_Python__.tex
 Tool_for_N_fermion_systems__.tex
