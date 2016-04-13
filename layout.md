@@ -54,7 +54,6 @@ CheS_Mapper_chemical_space_mapper__.tex
 Open3DALIGN_cite_Tosco_2011_Open3DGrid_and__.tex
 QSAR_tools_is_a_set__.tex
 SMARTCyp_is_a_QSAR_model__.tex
-Topological_maximum_cross_correlation_descriptors__.tex
 Toxtree_is_a_Java_GUI__.tex
 VIDEAN_visual_and_interactive_descriptor__.tex
 section_Quantum_Chemistry__.tex
