@@ -50,6 +50,7 @@ section_QSAR_ADMET_Modeling_Quantitative__.tex
 begin_table_begin_tabular_l__.tex
 paragraph_Descriptor_Calculators_4D_Flexible__.tex
 section_Quantum_Chemistry_Quantum_mechanics__.tex
+begin_table_begin_tabular_l__1.tex
 Ascalaph_Designer_is_a_molecular__.tex
 cclib_is_a_library_of__.tex
 JANPA_is_a_package_for__.tex
