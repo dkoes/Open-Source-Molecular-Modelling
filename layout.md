@@ -44,6 +44,7 @@ mol2chemfig_is_a_Pyhton_program__.tex
 NWChem_aims_to_provide_its__.tex
 OrChem_is_an_Oracle_chemistry__.tex
 OSRA_allows_user_to_convert__.tex
+cclib_is_a_library_of__.tex
 Mychem_is_a_chemoinformatics_extension__.tex
 checkmol_matchmol_url_http_merian__.tex
 section_QSAR_ADMET_Modeling_Quantitative__.tex
@@ -53,7 +54,6 @@ section_Quantum_Chemistry_Quantum_mechanics__.tex
 begin_table_begin_tabular_l__1.tex
 ABINIT_cite_Gonze_2009_is_a__.tex
 Ascalaph_Designer_is_a_molecular__.tex
-cclib_is_a_library_of__.tex
 JANPA_is_a_package_for__.tex
 CP2K_is_a_quantum_chemistry__.tex
 The_CCP1GUI_provides_a_graphical__.tex
