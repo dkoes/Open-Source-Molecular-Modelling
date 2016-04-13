@@ -56,7 +56,7 @@ ABINIT_cite_Gonze_2009_is_a__.tex
 Ascalaph_Designer_is_a_molecular__.tex
 JANPA_is_a_package_for__.tex
 CP2K_is_a_quantum_chemistry__.tex
-The_CCP1GUI_provides_a_graphical__.tex
+begin_itemize_item_end_itemize__.tex
 QMtool_is_a_graphical_user__.tex
 QMForge_is_aimed_at_analyzing__.tex
 orbkit_is_a_post_processing__.tex
