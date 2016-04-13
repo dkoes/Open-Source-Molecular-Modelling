@@ -48,7 +48,6 @@ Mychem_is_a_chemoinformatics_extension__.tex
 section_QSAR__.tex
 Quantitative_Structure_Activity_Relationship_QSAR__.tex
 begin_table_begin_tabular_l__.tex
-CheS_Mapper_chemical_space_mapper__.tex
 QSAR_tools_is_a_set__.tex
 SMARTCyp_is_a_QSAR_model__.tex
 Toxtree_is_a_Java_GUI__.tex
