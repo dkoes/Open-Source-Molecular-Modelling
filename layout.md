@@ -48,7 +48,6 @@ Mychem_is_a_chemoinformatics_extension__.tex
 section_QSAR__.tex
 Quantitative_Structure_Activity_Relationship_QSAR__.tex
 begin_table_begin_tabular_l__.tex
-VIDEAN_visual_and_interactive_descriptor__.tex
 section_Quantum_Chemistry__.tex
 These_days_there_is_a__.tex
 Ascalaph_Designer_is_a_molecular__.tex
