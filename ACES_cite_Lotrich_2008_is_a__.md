@@ -1,2 +1,0 @@
-ACES \\cite{Lotrich_2008} is a collection of programs that perform \textit{ab initio} quantum chemistry calculations such as single point energy calculations, analytical gradients, and analytical Hessians, and is highly parallelized, including support for GPU computing.
-A focus of ACES is the use of many-body perturbation theory (MBPT) and the coupled-cluster approximation to reliable treat electron correlation.
