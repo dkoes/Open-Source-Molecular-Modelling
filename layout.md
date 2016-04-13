@@ -57,7 +57,7 @@ PaDEL_Descriptor_cite_Yap_2010_is__.tex
 QSAR_tools_is_a_set__.tex
 SMARTCyp_is_a_QSAR_model__.tex
 Topological_maximum_cross_correlation_descriptors__.tex
-Toxtree_is_a_Java_application__.tex
+Toxtree_is_a_Java_GUI__.tex
 VIDEAN_visual_and_interactive_descriptor__.tex
 MolSig_is_an_algorithm_written__.tex
 section_Quantum_Chemistry__.tex
