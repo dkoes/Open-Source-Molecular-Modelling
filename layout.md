@@ -54,7 +54,6 @@ begin_table_begin_tabular_l__1.tex
 paragraph_textit_Ab_initio_Calcuation__.tex
 QMtool_is_a_graphical_user__.tex
 Siam_quantum_SQ_is_a__.tex
-RMG_is_within_the_framework__.tex
 QMCPACK_is_a_QMC_simulation__.tex
 section_Protein_Structure_Modeling__.tex
 section_Protein_Dynamics_Modeling__.tex
