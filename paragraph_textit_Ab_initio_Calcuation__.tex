@@ -33,10 +33,12 @@ FragIt \cite{Steinmann_2012} generates fragments of large molecules to use as in
 
 cclib \cite{O_boyle_2008} provides a consistent interface for parsing and interpreting the results of a number of quantum chemistry packages. 
 
-GaussSum \cite{O_boyle_2008} uses cclib to extract useful information from the results of quantum chemistry programs including monitoring the progress of geometry optimization, the UV/IR/Raman spectra, molecular orbital (MO) levels and MO contributions.
+GaussSum \cite{O_boyle_2008} uses cclib to extract useful information from the results of quantum chemistry programs (ADF, GAMESS, Gaussian, Jaguar) including monitoring the progress of geometry optimization, the UV/IR/Raman spectra, molecular orbital (MO) levels and MO contributions.
 
 Geac (Gaussian ESI Automated Creator) extracts data from Gaussian log files. 
 Nancy\_EX \cite{Etienne_2014} post-processes Gaussian output and analyzes excited states including natural transition orbitals, detachment and attachment density matrices, and charge-transfer descriptors.
+
+orbkit \cite{hermann2016orbkit} is a post-processing tool for the results of quantum chemistry programs.  It has native support for a number of programs (MOLPRO, TURBOMOLE, GAMESS-US, PROAIMS/AIMPAC, Gaussian) and additionally interfaces with cclib for additional file format support.  It can extract grid-based quantities such as molecular orbitals and electron density, as well as Muliken population charges and other properties.
 
 
 \paragraph{Visualization}
