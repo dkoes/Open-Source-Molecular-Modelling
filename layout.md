@@ -62,7 +62,6 @@ PyQuante_Python_quantum_chemistry_is__.tex
 Siam_quantum_SQ_is_a__.tex
 RMG_is_within_the_framework__.tex
 QMCPACK_is_a_QMC_simulation__.tex
-OpenMX_Open_source_package_for__.tex
 section_Protein_Structure_Modeling__.tex
 section_Protein_Dynamics_Modeling__.tex
 section_Virtual_Screening_subsection_Ligand__.tex
