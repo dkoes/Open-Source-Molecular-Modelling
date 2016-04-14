@@ -54,7 +54,6 @@ begin_table_begin_tabular_l__1.tex
 paragraph_textit_Ab_initio_Calcuation__.tex
 QMtool_is_a_graphical_user__.tex
 QMForge_is_aimed_at_analyzing__.tex
-orbkit_is_a_post_processing__.tex
 QUANTUM_SPRESSO_open_source_package__.tex
 Psi4_is_a_suite_of__.tex
 Pyscf_is_a_python_library__.tex
