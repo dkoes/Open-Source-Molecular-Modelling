@@ -57,7 +57,6 @@ QMForge_is_aimed_at_analyzing__.tex
 QUANTUM_SPRESSO_open_source_package__.tex
 Psi4_is_a_suite_of__.tex
 Pyscf_is_a_python_library__.tex
-PyQuante_Python_quantum_chemistry_is__.tex
 Siam_quantum_SQ_is_a__.tex
 RMG_is_within_the_framework__.tex
 QMCPACK_is_a_QMC_simulation__.tex
