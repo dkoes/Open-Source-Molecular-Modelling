@@ -56,6 +56,7 @@ paragraph_textit_Ab_initio_Calcuation__.tex
 section_Protein_Structure_Modeling__.tex
 section_Protein_Dynamics_Modeling__.tex
 section_Virtual_Screening_subsection_Ligand__.tex
+begin_table_begin_tabular_l__3.tex
 MOLA_is_a_tool_used__.tex
 PyRx_is_a_structure_based__.tex
 rDock_is_a_molecular_docking__.tex
