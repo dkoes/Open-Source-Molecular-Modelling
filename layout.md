@@ -1,7 +1,7 @@
 Abstract.tex
 section_Introduction_subsection_What_is__.tex
 section_Methods_We_organize_software__1.tex
-section_Cheminformatics__.tex
+section_Cheminformatics_Chemoinformatics_is_a__.tex
 begin_table_begin_tabular_l__2.tex
 Chemoinformatics_is_a_field_of__.tex
 Bioclipse_applies_for_chemo_and__.tex
