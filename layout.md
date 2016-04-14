@@ -56,7 +56,6 @@ QMtool_is_a_graphical_user__.tex
 QMForge_is_aimed_at_analyzing__.tex
 orbkit_is_a_post_processing__.tex
 QUANTUM_SPRESSO_open_source_package__.tex
-MPQC_massively_parallel_quantum_chemistry__.tex
 Nancy__EX_is_a_code__.tex
 Psi4_is_a_suite_of__.tex
 Pyscf_is_a_python_library__.tex
