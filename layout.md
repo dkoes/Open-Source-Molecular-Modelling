@@ -67,7 +67,6 @@ Siam_quantum_SQ_is_a__.tex
 RMG_is_within_the_framework__.tex
 QMCPACK_is_a_QMC_simulation__.tex
 GPAW_is_a_DFT_Python__.tex
-Tool_for_N_fermion_systems__.tex
 Monstergauss_is_a_derivation_of__.tex
 Octopus_is_a_quantum_chemistry__.tex
 OpenMX_Open_source_package_for__.tex
