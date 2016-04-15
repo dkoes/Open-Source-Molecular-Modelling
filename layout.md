@@ -14,7 +14,6 @@ Open_molecule_generator_OMG_is__.tex
 Weka_provides_machine_learning_algorithms__.tex
 mol2chemfig_is_a_Pyhton_program__.tex
 NWChem_aims_to_provide_its__.tex
-Mychem_is_a_chemoinformatics_extension__.tex
 checkmol_matchmol_url_http_merian__.tex
 section_QSAR_ADMET_Modeling_Quantitative__.tex
 begin_table_begin_tabular_l__.tex
