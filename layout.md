@@ -13,7 +13,6 @@ Screening_assistant_2_SA2_is__.tex
 Open_molecule_generator_OMG_is__.tex
 MoleCalc_is_a_molecular_weight__.tex
 Molsketch_is_a_2D_molecular__.tex
-BALL_biochemical_algorithms_library_is__.tex
 Weka_provides_machine_learning_algorithms__.tex
 mol2chemfig_is_a_Pyhton_program__.tex
 NWChem_aims_to_provide_its__.tex
