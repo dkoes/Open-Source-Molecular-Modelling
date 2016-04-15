@@ -8,7 +8,6 @@ Align_it_is_a_successor__.tex
 ConvertMAS_is_a_molecule_converter__.tex
 Shape_it_is_a_tool__.tex
 Shape_is_a_program_to__.tex
-ChemmineR_is_an_R_package__.tex
 The_fmcsR_is_an_R__.tex
 Strip_it_is_a_program__.tex
 SMSD_is_a_library_written__.tex
