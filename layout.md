@@ -8,7 +8,6 @@ Align_it_is_a_successor__.tex
 ConvertMAS_is_a_molecule_converter__.tex
 Shape_it_is_a_tool__.tex
 Shape_is_a_program_to__.tex
-The_fmcsR_is_an_R__.tex
 Som_itTM_provides_a_number__.tex
 Screening_assistant_2_SA2_is__.tex
 Open_molecule_generator_OMG_is__.tex
