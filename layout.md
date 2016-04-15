@@ -6,7 +6,6 @@ begin_table_begin_tabular_l__2.tex
 paragraph_Toolkits_The_Biochemical_Algorithms__.tex
 Align_it_is_a_successor__.tex
 Indigo_is_a_cheminformatics_toolkit__.tex
-JOELib_JOELib2_is_a_cheminformatics__.tex
 The_LICSS_System_Excel_CDK__.tex
 MayaChemTools_is_a_growing_collection__.tex
 ConvertMAS_is_a_molecule_converter__.tex
