@@ -4,7 +4,6 @@ section_Methods_We_organize_software__1.tex
 section_Cheminformatics_Chemoinformatics_is_a__.tex
 begin_table_begin_tabular_l__2.tex
 paragraph_Toolkits_The_Biochemical_Algorithms__.tex
-Shape_it_is_a_tool__.tex
 Weka_provides_machine_learning_algorithms__.tex
 mol2chemfig_is_a_Pyhton_program__.tex
 NWChem_aims_to_provide_its__.tex
@@ -21,6 +20,7 @@ section_Virtual_Screening_subsection_Ligand__.tex
 begin_table_begin_tabular_l__3.tex
 MOLA_is_a_tool_used__.tex
 Align_it_is_a_successor__.tex
+Shape_it_is_a_tool__.tex
 PyRx_is_a_structure_based__.tex
 rDock_is_a_molecular_docking__.tex
 AutoDock_presents_docking_tools_to__1.tex
