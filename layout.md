@@ -14,7 +14,6 @@ Open_molecule_generator_OMG_is__.tex
 Weka_provides_machine_learning_algorithms__.tex
 mol2chemfig_is_a_Pyhton_program__.tex
 NWChem_aims_to_provide_its__.tex
-OrChem_is_an_Oracle_chemistry__.tex
 OSRA_allows_user_to_convert__.tex
 cclib_is_a_library_of__.tex
 Mychem_is_a_chemoinformatics_extension__.tex
