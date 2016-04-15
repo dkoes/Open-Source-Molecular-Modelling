@@ -9,7 +9,6 @@ ConvertMAS_is_a_molecule_converter__.tex
 Shape_it_is_a_tool__.tex
 Shape_is_a_program_to__.tex
 Som_itTM_provides_a_number__.tex
-Screening_assistant_2_SA2_is__.tex
 Weka_provides_machine_learning_algorithms__.tex
 mol2chemfig_is_a_Pyhton_program__.tex
 NWChem_aims_to_provide_its__.tex
