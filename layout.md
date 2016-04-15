@@ -7,7 +7,6 @@ paragraph_Toolkits_The_Biochemical_Algorithms__.tex
 Align_it_is_a_successor__.tex
 ConvertMAS_is_a_molecule_converter__.tex
 Shape_it_is_a_tool__.tex
-Shape_is_a_program_to__.tex
 Weka_provides_machine_learning_algorithms__.tex
 mol2chemfig_is_a_Pyhton_program__.tex
 NWChem_aims_to_provide_its__.tex
