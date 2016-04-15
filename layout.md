@@ -18,7 +18,6 @@ MoleCalc_is_a_molecular_weight__.tex
 Molsketch_is_a_2D_molecular__.tex
 Filter_it_is_a_program__.tex
 BALL_biochemical_algorithms_library_is__.tex
-cApp_is_a_Java_software__.tex
 Weka_provides_machine_learning_algorithms__.tex
 mol2chemfig_is_a_Pyhton_program__.tex
 NWChem_aims_to_provide_its__.tex
@@ -50,4 +49,5 @@ AutoGrow_3_0_attempts_to__.tex
 HostDesigner_is_a_de_novo__1.tex
 LigBuilder_v2_0_is_a__.tex
 section_Visualization__.tex
+cApp_is_a_Java_software__.tex
 begin_table_begin_tabular_l__4.tex
