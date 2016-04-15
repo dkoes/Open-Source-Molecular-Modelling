@@ -21,7 +21,6 @@ BALL_biochemical_algorithms_library_is__.tex
 cApp_is_a_Java_software__.tex
 chemf_is_a_purely_functional__.tex
 Chemtool_is_a_program_for__.tex
-The_CurlySMILES_is_a_collection__.tex
 Weka_provides_machine_learning_algorithms__.tex
 mol2chemfig_is_a_Pyhton_program__.tex
 NWChem_aims_to_provide_its__.tex
