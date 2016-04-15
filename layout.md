@@ -19,7 +19,6 @@ Molsketch_is_a_2D_molecular__.tex
 Filter_it_is_a_program__.tex
 BALL_biochemical_algorithms_library_is__.tex
 cApp_is_a_Java_software__.tex
-chemf_is_a_purely_functional__.tex
 Weka_provides_machine_learning_algorithms__.tex
 mol2chemfig_is_a_Pyhton_program__.tex
 NWChem_aims_to_provide_its__.tex
