@@ -6,7 +6,6 @@ begin_table_begin_tabular_l__2.tex
 paragraph_Toolkits_The_Biochemical_Algorithms__.tex
 Align_it_is_a_successor__.tex
 SketchEl_is_a_molecular_sketching__.tex
-Open_Babel_is_a_C__.tex
 RDKit_is_a_toolkit_of__.tex
 Helium_provides_building_blocks_that__.tex
 Chemfig_is_a_tool_to__.tex
