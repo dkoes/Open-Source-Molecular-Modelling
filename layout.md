@@ -6,7 +6,6 @@ begin_table_begin_tabular_l__2.tex
 paragraph_Toolkits_The_Biochemical_Algorithms__.tex
 Align_it_is_a_successor__.tex
 ConvertMAS_is_a_molecule_converter__.tex
-The_open_drug_discovery_toolkit__.tex
 Shape_it_is_a_tool__.tex
 Shape_is_a_program_to__.tex
 sdf2xyz2sdf_consists_of_two_programs__.tex
