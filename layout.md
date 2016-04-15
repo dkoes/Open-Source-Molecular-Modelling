@@ -5,7 +5,6 @@ section_Cheminformatics_Chemoinformatics_is_a__.tex
 begin_table_begin_tabular_l__2.tex
 paragraph_Toolkits_The_Biochemical_Algorithms__.tex
 Align_it_is_a_successor__.tex
-ConvertMAS_is_a_molecule_converter__.tex
 Shape_it_is_a_tool__.tex
 Weka_provides_machine_learning_algorithms__.tex
 mol2chemfig_is_a_Pyhton_program__.tex
