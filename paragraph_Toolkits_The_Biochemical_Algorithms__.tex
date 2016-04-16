@@ -39,7 +39,7 @@ The Open Drug Discovery Toolkit (ODDT) \cite{W_jcikowski_2015} is entirely writt
 
 The Open Molecule Generator (OMG) \cite{Peironcely_2012} enumerates all possible chemical structures given constraints on their composition.
 
-Open Babel \cite{O_Boyle_2011} is substantial cheminformatics toolkit written in C++ with Python, Perl, Java, Ruby, R, PHP, and Scala bindings.  Its capabilities include support for more than 100 chemical file formats, fingerprint generation, property determination, similarity and substructure search, structure generation, and molecular force fields.
+Open Babel \cite{O_Boyle_2011} is substantial cheminformatics toolkit written in C++ with Python, Perl, Java, Ruby, R, PHP, and Scala bindings.  Its capabilities include support for more than 100 chemical file formats, fingerprint generation, property determination, similarity and substructure search, structure generation, and molecular force fields.  It has absorbed the Confab \cite{confab} conformer generator which produces 3D structures through the systematic enumeration of torsions and energy minimization.
 
 OPSIN \cite{Lowe_2011}, the Open Parser for Systematic IUPAC nomenclature, converts plain-text chemical nomenclature to machine readable CML or InChi formats.
 
@@ -88,12 +88,9 @@ SketchEl is a Java-based 2D molecular editor that includes support for a datashe
 
 \paragraph{Conformer Generation}
 
+Confab \cite{confab} is now integrated into Open Babel and generates conformations through systematic enumeration of torsions and energy evaluation.
+
 Frog2 \cite{Miteva_2010} uses a two stage Monte Carlo approach coupled with energy minimization to rapidly generate conformers.
-
-confab \cite{confab}
-
-Cyndi \cite{Liu_2009}
 
 Shape \cite{Rosen_2009} employs a genetic algorithm to generate conformations of carbohydrates.
 
-smi23d \url{https://sourceforge.net/p/cicc-grid/code/HEAD/tree/cicc-grid/smi23d/}
