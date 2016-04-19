@@ -6,6 +6,7 @@ AutoDock Vina \cite{Trott_2009} is an entirely separate code base and approach f
 
 MOLA \cite{Abreu_2010} is a pre-packaged distribution of AutoDock and AutoDock Vina for deployment on multi-platform computing clusters.
 
+Paradocks \cite{Meier_2010} is a parallelized docking program that includes a number of population-based metaheuristics, such as particle swarm optimization, for exploring the 
 PyRx \cite{Dallakyan_2014} is a visual interface for AutoDock and AutoDock Vina that simplifies setting up and analyzing docking workflows.  Its future as an open-source solution is in doubt due to a recent shift to commercialization.
 
 rDock \cite{Ruiz_Carmona_2014}  is designed for docking against proteins or nucleic acids and can incorporate user-specified constraints. It uses an empirical scoring function that includes solvent accessible surface area terms. A combination of genetic algorithms, Monte Carlo, and simplex minimization is used to explore the conformational space. Distinct scoring functions are provided for docking to proteins and nucleic acids.
@@ -15,6 +16,8 @@ RF-Score \cite{Li_2015,Ballester_2010} uses a random forest classifier to score 
 smina \cite{Koes_2013} is a fork of AutoDock Vina designed to better support energy minimization and custom scoring function development (scoring function terms and atom type properties can be specified using a run-time configuration file). It also simplifies the process of setting up a docking run with flexible sidechains.
 
 VinaLC  \cite{Zhang_2013} is a fork of AutoDock Vina designed to run on a cluster of multiprocessor machines.
+
+VinaMPI \cite{Ellingson_2013} is a wrapper for AutoDock Vina that uses OpenMPI to run large-scale virtual screens on a computing cluster.
 
 \paragraph{Pocket Detection}
 
