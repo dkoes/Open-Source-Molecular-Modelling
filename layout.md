@@ -17,7 +17,7 @@ subsection_Ligand_Based__.tex
 begin_table_begin_tabular_l__3.tex
 subsection_Structure_Based__.tex
 begin_table_begin_tabular_l__5.tex
-AutoDock_cite_Morris_2009_is_an__.tex
+paragraph_Docking_AutoDock_cite_Morris_2009__.tex
 MOLA_is_a_tool_used__.tex
 Align_it_is_a_successor__.tex
 Shape_it_is_a_tool__.tex
