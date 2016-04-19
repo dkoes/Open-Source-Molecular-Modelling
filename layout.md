@@ -19,7 +19,6 @@ subsection_Structure_Based__.tex
 begin_table_begin_tabular_l__5.tex
 Align_it_is_a_successor__.tex
 Shape_it_is_a_tool__.tex
-PyRx_is_a_structure_based__.tex
 AutoDock_presents_docking_tools_to__1.tex
 section_De_novo_and_ligand__.tex
 de_novo_design_is_an__.tex
