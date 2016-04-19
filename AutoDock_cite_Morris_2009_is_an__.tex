@@ -1,3 +1,5 @@
+\paragraph{Docking}
+
 AutoDock \cite{Morris_2009} is an automated docking program that uses a physics-based semiempirical scoring function \cite{Huey_2007} mapped to atom type grids to evaluate poses and a genetic algorithm to explore the conformational space.  It includes the ability to incorporate sidechain flexibility and covalent docking.
 
 AutoDock Vina \cite{Trott_2009} is an entirely separate code base and approach from Autodock that was developed with a focus runtime performance and ease of system setup. It uses a fully empirical scoring function and an iterated local search global optimizer to produce docked poses. It includes support for multi-threading and flexible sidechains.
@@ -7,6 +9,8 @@ MOLA \cite{Abreu_2010} is a pre-packaged distribution of AutoDock and AutoDock V
 PyRx \cite{Dallakyan_2014} is a visual interface for AutoDock and AutoDock Vina that simplifies setting up and analyzing docking workflows.  Its future as an open-source solution is in doubt due to a recent shift to commercialization.
 
 rDock \cite{Ruiz_Carmona_2014}  is designed for docking against proteins or nucleic acids and can incorporate user-specified constraints. It uses an empirical scoring function that includes solvent accessible surface area terms. A combination of genetic algorithms, Monte Carlo, and simplex minimization is used to explore the conformational space. Distinct scoring functions are provided for docking to proteins and nucleic acids.
+
+\paragraph{Pocket Detection}
 
 smina \cite{Koes_2013} is a fork of AutoDock Vina designed to better support energy minimization and custom scoring function development (scoring function terms and atom type properties can be specified using a run-time configuration file). It also simplifies the process of setting up a docking run with flexible sidechains.
 
