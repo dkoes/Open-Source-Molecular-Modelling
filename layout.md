@@ -14,12 +14,12 @@ section_Protein_Structure_Modeling_I__.tex
 section_Protein_Dynamics_Modeling_This__.tex
 section_Virtual_Screening_The_goal__.tex
 subsection_Ligand_Based__.tex
+Shape_it_is_a_tool__.tex
 Align_it_is_a_successor__.tex
 begin_table_begin_tabular_l__3.tex
 subsection_Structure_Based__.tex
 begin_table_begin_tabular_l__5.tex
 paragraph_Docking_AutoDock_cite_Morris_2009__.tex
-Shape_it_is_a_tool__.tex
 section_De_novo_and_ligand__.tex
 de_novo_design_is_an__.tex
 AutoGrow_3_0_attempts_to__.tex
