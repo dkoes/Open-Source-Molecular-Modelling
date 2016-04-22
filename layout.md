@@ -21,6 +21,7 @@ subsection_Structure_Based__.tex
 begin_table_begin_tabular_l__5.tex
 paragraph_Docking_ADplugin_is_a__.tex
 section_De_novo_and_ligand__.tex
+begin_table_begin_tabular_l__7.tex
 de_novo_design_is_an__.tex
 AutoGrow_3_0_attempts_to__.tex
 HostDesigner_is_a_de_novo__1.tex
