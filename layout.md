@@ -20,7 +20,7 @@ Shape_it_textsuperscript_TM_is__.tex
 subsection_Structure_Based__.tex
 begin_table_begin_tabular_l__5.tex
 paragraph_Docking_ADplugin_is_a__.tex
-section_Ligand_design__.tex
+section_Ligand_Design__.tex
 begin_table_begin_tabular_l__7.tex
 de_novo_design_is_an__.tex
 AutoGrow_3_0_attempts_to__.tex
