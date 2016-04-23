@@ -24,4 +24,3 @@ paragraph_Docking_ADplugin_is_a__.tex
 section_Ligand_Design_In_contrast__.tex
 begin_table_begin_tabular_l__7.tex
 AutoClickChem_cite_Durrant_2012_performs_textit__.tex
-AutoGrow_3_0_attempts_to__.tex
