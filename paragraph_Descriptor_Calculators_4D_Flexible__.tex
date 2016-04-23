@@ -12,6 +12,8 @@ Topological maximum cross correlation descriptors (TMACC) \cite{Melville_2007} g
 \paragraph{Model Building}
 AZOrange \cite{St_lring_2011} is a machine learning package that supports QSAR model building in a full work flow from descriptor computation to automated model building, validation and selection. It promotes model accuracy by using several high performance machine learning algorithms for efficient data set specific selection of the statistical approach.
 
+Bioalerts \cite{Cortes_Ciriano_2016} uses RDKit fingerprint to create models from discrete (e.g., toxic/non-toxic) and continuous data.  It includes the capability to visualize problematic functional groups.
+
 Chemistry aware model builder (camb) \cite{Murrell_2015} is an R package for the generation of quantitative models. Its features include descriptor calculation (including 905 two-dimensional and 14 fingerprint type descriptors for small molecules, 13 whole protein sequence descriptors, and 8 types of amino acid descriptors), model generation, ensemble modeling, and visualization (With ggplot2).
 
 eTOXLab \cite{Carri__2015} provides a portable modeling framework embedded in a self-contained virtual machine for easy deployment.
@@ -21,6 +23,7 @@ Open3DALIGN  \cite{Tosco_2011}, Open3DGrid, and Open3DQSAR \cite{Tosco_2010} are
 QSAR-tools is a set of Python scripts that use RDKit to model quantitative structure activity relationships from 2D chemical data. It inputs SMILES file of a training set and computes a set of smarts descriptors unique to that set. By using a fingerprint file, it trains a linear model to predict a numerical quantity of interest and is capable of mapping the model onto the compound to produce an image.
 
 \paragraph{Model Application}
+
 SMARTCyp \cite{Rydberg_2010} is a QSAR model that predicts the sites of cytochrome P450-mediated metabolism of drug like molecules directly from the 2D structure of a molecule using fragment based energy rules.
 
 Toxtree \cite{Patlewicz_2008} is a Java GUI application for estimating the ``toxic hazard'' of molecules using a variety of toxicity prediction modules, such as oral toxicity, skin  and eye irritation prediction, covalent protein binding and DNA binding, Cytochrome P450-mediated drug metabolism (using SMARTCyp) and more.
