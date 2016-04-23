@@ -19,7 +19,6 @@ MEPSA_Minimum_Energy_Pathway_Analysis__.tex
 section_Virtual_Screening_The_goal__.tex
 begin_table_begin_tabular_l__3.tex
 paragraph_Ligand_Based_ACPC_AutoCorrelation__.tex
-subsection_Structure_Based__.tex
 begin_table_begin_tabular_l__5.tex
 paragraph_Docking_ADplugin_is_a__.tex
 section_Ligand_Design__.tex
