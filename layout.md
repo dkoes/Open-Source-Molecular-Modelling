@@ -26,5 +26,4 @@ section_Ligand_Design__.tex
 begin_table_begin_tabular_l__7.tex
 de_novo_design_is_an__.tex
 AutoGrow_3_0_attempts_to__.tex
-HostDesigner_is_a_de_novo__1.tex
 LigBuilder_v2_0_is_a__.tex
