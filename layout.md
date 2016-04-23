@@ -5,7 +5,6 @@ section_Cheminformatics_Cheminformatics_involves_the__.tex
 begin_table_begin_tabular_l__2.tex
 paragraph_Toolkits_The_Biochemical_Algorithms__.tex
 section_Visualization__.tex
-cApp_is_a_Java_software__.tex
 begin_table_begin_tabular_l__4.tex
 section_QSAR_ADMET_Modeling_Quantitative__.tex
 begin_table_begin_tabular_l__.tex
