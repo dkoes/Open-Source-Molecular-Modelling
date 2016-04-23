@@ -4,6 +4,7 @@ section_Methods_We_organize_software__1.tex
 section_Cheminformatics_Cheminformatics_involves_the__.tex
 begin_table_begin_tabular_l__2.tex
 paragraph_Toolkits_The_Biochemical_Algorithms__.tex
+section_Visualization__.tex
 section_QSAR_ADMET_Modeling_Quantitative__.tex
 begin_table_begin_tabular_l__.tex
 paragraph_Descriptor_Calculators_4D_Flexible__.tex
@@ -26,6 +27,5 @@ de_novo_design_is_an__.tex
 AutoGrow_3_0_attempts_to__.tex
 HostDesigner_is_a_de_novo__1.tex
 LigBuilder_v2_0_is_a__.tex
-section_Visualization__.tex
 cApp_is_a_Java_software__.tex
 begin_table_begin_tabular_l__4.tex
