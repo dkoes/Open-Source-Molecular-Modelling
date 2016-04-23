@@ -18,7 +18,7 @@ begin_table_begin_tabular_l__6.tex
 section_Virtual_Screening_The_goal__.tex
 subsection_Ligand_Based__.tex
 begin_table_begin_tabular_l__3.tex
-Shape_it_textsuperscript_TM_is__.tex
+ACPC_AutoCorrelation_of_Partial_Charges__.tex
 subsection_Structure_Based__.tex
 begin_table_begin_tabular_l__5.tex
 paragraph_Docking_ADplugin_is_a__.tex
