@@ -17,7 +17,6 @@ section_Ligand_Dynamics_and_Free__.tex
 begin_table_begin_tabular_l__6.tex
 MEPSA_Minimum_Energy_Pathway_Analysis__.tex
 section_Virtual_Screening_The_goal__.tex
-subsection_Ligand_Based__.tex
 begin_table_begin_tabular_l__3.tex
 ACPC_AutoCorrelation_of_Partial_Charges__.tex
 subsection_Structure_Based__.tex
