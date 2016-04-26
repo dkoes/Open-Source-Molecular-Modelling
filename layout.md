@@ -19,7 +19,6 @@ section_Quantum_Chemistry_Quantum_mechanics__.tex
 begin_table_begin_tabular_l__.tex
 begin_table_begin_tabular_l__13.tex
 begin_table_begin_tabular_l__14.tex
-begin_table_begin_tabular_l__1.tex
 paragraph_textit_Ab_initio_Calcuation__.tex
 section_Ligand_Dynamics_and_Free__.tex
 begin_table_begin_tabular_l__6.tex
