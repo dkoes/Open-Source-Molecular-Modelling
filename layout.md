@@ -11,6 +11,7 @@ begin_table_begin_tabular_l__8.tex
 paragraph_2D_Desktop_Applications_Table__.tex
 section_QSAR_ADMET_Modeling_Quantitative__.tex
 begin_table_begin_tabular_c__.tex
+begin_table_begin_tabular_l__11.tex
 begin_table_begin_tabular_l__10.tex
 begin_table_begin_tabular_l__.tex
 paragraph_Descriptor_Calculators_4D_Flexible__.tex
