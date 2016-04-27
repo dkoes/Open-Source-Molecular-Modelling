@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 
-import seaborn 
 import numpy as np
 import sys,re,glob,collections,os
 import bibtexparser

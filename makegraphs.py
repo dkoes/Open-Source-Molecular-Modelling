@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 import prettyplotlib as ppl
 import seaborn 
+import bibtexparser
 import numpy as np
 import sys,re,glob,collections,os
 
@@ -15,11 +16,15 @@ develops = []
 usages = []
 activities = []
 citationcnt = 0
+cites = set()
 
 for tex in glob.glob('*.tex'):
     for line in open(tex):
         m = re.search(r'^.*&.*&(.*)&(.*)&(.*)\\\\', line)
         if m and m.group(1).strip() != 'License':
+            c = re.search(r'\\cite\{(.*)\}',m.group(3))
+            if c:
+                cites.add(c.group(1))
             activity = m.group(2).strip()
             lic = m.group(1).strip()
             licenses.append(lic)
@@ -39,6 +44,32 @@ dcnt = collections.Counter(develops)
 ucnt = collections.Counter(usages)
 acnt = collections.Counter(activities)
 
+seen = set()
+dois = []
+years = dict()
+with open('bibliography/biblio.bib') as bibtex_file:
+    bib_database = bibtexparser.load(bibtex_file)
+    for e in bib_database.entries:
+        if 'ID' in e and e['ID'] in cites and 'doi' in e:
+            seen.add(e['ID'])
+            dois.append(e['doi'])
+            years[e['doi']] = int(e['year'])
+            
+citeddois = set()
+citations = []
+normcitations = []
+with open('cites') as cite_file:
+    for line in cite_file:
+        (doi,cnt) = line.split()
+        citations.append(int(cnt))
+        citeddois.add(doi)
+        year = years[doi]
+        normc = float(cnt)/(2016-year+1)
+        normcitations.append(normc)
+
+for doi in dois:
+    if doi not in citeddois:
+        print "Not cited:",doi
 
 def makepie(cnt,name,num=-1):
     labels = []
@@ -82,3 +113,16 @@ makepie(lcnt,"licenses.pdf",6)
 makepie(ucnt,"usage.pdf")
 makepie(dcnt,"develop.pdf")
 
+plt.style.use('classic')
+
+plt.style.use('seaborn-colorblind')
+
+plt.figure(figsize=(10,6))
+
+plt.gca().set_yscale('log')
+plt.xlabel("Publication Citation Rank",fontsize=16)
+plt.ylabel("Number of Citations per Year",fontsize=16)
+plt.plot(sorted(normcitations),linewidth=3)
+#plt.plot(sorted(citations),linewidth=3)
+plt.ylim(0.1,1000)
+plt.savefig('citedist.pdf',bbox_inches='tight')
