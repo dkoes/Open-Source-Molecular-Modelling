@@ -6,6 +6,7 @@ import numpy as np
 import sys,re,glob,collections,os
 import bibtexparser
 import scholar
+import time
 
 cites = set()
 
@@ -40,11 +41,14 @@ for doi in dois:
         txt = art.as_txt()
         if doi in txt:
             #print art['num_citations'],doi
-            citecnts.append(art['num_citations'])
+            citecnts.append((doi,art['num_citations']))
         else:
             print "NOTFOUND",doi
     else:
         print "REALLYNOTFOUND",doi
+    time.sleep(1)
         
-np.savetxt('citecnts.txt',citecnts)
+with open('citecnts.txt','w') as out:
+    for (doi,num) in citecnts:
+        out.write('%s %d\n' % (doi,num))
     
