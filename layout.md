@@ -29,6 +29,7 @@ section_Virtual_Screening_The_goal__.tex
 begin_table_begin_tabular_l__3.tex
 paragraph_Ligand_Based_Table_ref__.tex
 begin_table_begin_tabular_l__5.tex
+begin_table_begin_tabular_l__2.tex
 paragraph_Docking_ADplugin_is_a__.tex
 section_Ligand_Design_In_contrast__.tex
 begin_table_begin_tabular_l__7.tex
