@@ -13,14 +13,17 @@ open source modeling paper and turning them into graphs.'''
 licenses = []
 develops = []
 usages = []
+activities = []
+citationcnt = 0
 
 for tex in glob.glob('*.tex'):
     for line in open(tex):
-        m = re.search(r'^.*&.*&(.*)&(.*)&.*\\\\', line)
+        m = re.search(r'^.*&.*&(.*)&(.*)&(.*)\\\\', line)
         if m and m.group(1).strip() != 'License':
             activity = m.group(2).strip()
             lic = m.group(1).strip()
             licenses.append(lic)
+            activities.append(activity)
             if len(activity) == 2:
                 develops.append(activity[0])
                 usages.append(activity[1])
@@ -28,12 +31,13 @@ for tex in glob.glob('*.tex'):
                 print "Missing activity code:",line
             if len(lic) == 0:
                 print "Missing license:",line
-            
+            if len(m.group(3).strip()) > 0:
+                citationcnt += 1
 
 lcnt = collections.Counter(licenses)
 dcnt = collections.Counter(develops)
 ucnt = collections.Counter(usages)
-
+acnt = collections.Counter(activities)
 
 
 def makepie(cnt,name,num=-1):
@@ -70,7 +74,9 @@ def makepie(cnt,name,num=-1):
     plt.savefig(name,bbox_inches='tight',pad_inches=0)
     plt.clf()
 
-print "Number:",len(licenses)
+print acnt
+print "Citable: %d (%.2f)" % (citationcnt,citationcnt/float(len(licenses)))
+print "Total:",len(licenses)
 
 makepie(lcnt,"licenses.pdf",6)
 makepie(ucnt,"usage.pdf")
