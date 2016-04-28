@@ -1,5 +1,9 @@
 \begin{table} 
-    \begin{tabular}{ l l c c c  }
+\footnotesize
+\iflatexml\else
+\resizebox{\linewidth}{!}{
+\fi
+    \begin{tabular}{ l p{3.5in} c c c  }
     Name & URL & License & Activity & Citation \\ \hline
 LOOS & \url{http://loos.sourceforge.net} & GPL & A1 & \cite{Romo_2014} \\
 lsfitpar & \url{http://mackerell.umaryland.edu/~kenno/lsfitpar} & GPL & A2 & \cite{Vanommeslaeghe_2015} \\
@@ -14,5 +18,8 @@ PyEMMA & \url{http://www.emma-project.org} & LGPL & A1 & \cite{Scherer_2015} \\
 PyRED & \url{http://upjv.q4md-forcefieldtools.org/} & GPL & C1 & \cite{Dupradeau_2010} \\
 WHAM & \url{http://membrane.urmc.rochester.edu/content/wham} & BSD & C1 \\
     \end{tabular} 
+\iflatexml\else
+}
+\fi
     \caption{\label{mdanalysis} Open source software for setting up and analyzing molecular simulations.}
 \end{table}
