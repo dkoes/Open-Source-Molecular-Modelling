@@ -1,5 +1,9 @@
 \begin{table} 
-    \begin{tabular}{ l l c c c  }
+\footnotesize
+\iflatexml\else
+\resizebox{\linewidth}{!}{
+\fi
+    \begin{tabular}{ l p{3.5in} c c c  }
     Name & URL & License & Activity & Citation \\ \hline
 BKchem & \url{http://bkchem.zirael.org} & GPL & C4 & \\
 chemfig & \url{https://www.ctan.org/pkg/chemfig} & \LaTeX & A1 & \\
@@ -9,5 +13,8 @@ mol2chemfig & \url{http://chimpsky.uwaterloo.ca/mol2chemfig} & \LaTeX & C3 & \ci
 Molsketch & \url{http://sourceforge.net/projects/molsketch} & GPL & A1 & \\
 SketchEl & \url{http://sketchel.sourceforge.net/} & GPL & A1 & \\
     \end{tabular} 
+\iflatexml\else
+}
+\fi
     \caption{\label{2ddesktopviz} Open-source tools for 2D molecular visualization and editing on the desktop.}
 \end{table}
