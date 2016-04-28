@@ -1,5 +1,9 @@
 \begin{table} 
-    \begin{tabular}{ l l c c c  }
+\footnotesize
+\iflatexml\else
+\resizebox{\linewidth}{!}{
+\fi
+    \begin{tabular}{ l p{3.5in} c c c  }
     Name & URL & License & Activity & Citation \\ \hline
 ABINIT &	\url{http://www.abinit.org} & GPL & A1 & \cite{Gonze_2009} \\
 ACES & \url{http://www.qtp.ufl.edu/aces} & GPL & A2 & \cite{Lotrich_2008} \\
@@ -23,5 +27,8 @@ Quantum espresso & \url{http://www.quantum-espresso.org}  & GPL &  A1 & \cite{Gi
 RMG	& \url{http://rmgdft.sourceforge.net}  & BSD/GPL & A1 &  \cite{moore2012scaling}\\
 SQ	& \url{https://sites.google.com/site/siamquantum}  & GPL & A2 & \\
     \end{tabular} 
+\iflatexml\else
+}
+\fi
     \caption{\label{abinitio} Quantum chemistry software for performing \textit{ab initio} calculations.}
 \end{table}
