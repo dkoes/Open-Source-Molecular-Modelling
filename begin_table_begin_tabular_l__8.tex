@@ -1,5 +1,9 @@
 \begin{table} 
-    \begin{tabular}{ l l c c c  }
+\footnotesize
+\iflatexml\else
+\resizebox{\linewidth}{!}{
+\fi
+    \begin{tabular}{ l p{3.5in} c c c  }
     Name & URL & License & Activity & Citation \\ \hline
 3Dmol.js & \url{3dmol.csb.pitt.edu} & BSD & A1 & \cite{Rego_2014} \\
 CH5M3D & \url{https://sourceforge.net/projects/ch5m3d} & GPL & C1 & \cite{Earley_2013} \\
@@ -11,5 +15,8 @@ JSmol & \url{https://sourceforge.net/projects/jsmol} & LGPL & A1 & \cite{Hanson_
 NGL & \url{http://proteinformatics.charite.de/ngl} & MIT & A1 & \cite{Rose_2015} \\
 PV & \url{https://biasmv.github.io/pv} & MIT & A1 & \cite{95f13b46-4e83-4cdd-afc0-6de07bca5ae8} \\
     \end{tabular} 
+\iflatexml\else
+}
+\fi
     \caption{\label{webviz} Open-source tools for web-based molecular visualization.}
 \end{table}
