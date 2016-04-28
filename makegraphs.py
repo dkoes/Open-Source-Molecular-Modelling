@@ -109,7 +109,7 @@ print acnt
 print "Citable: %d (%.2f)" % (citationcnt,citationcnt/float(len(licenses)))
 print "Total:",len(licenses)
 
-makepie(lcnt,"licenses.pdf",6)
+makepie(lcnt,"licenses.pdf",5)
 makepie(ucnt,"usage.pdf")
 makepie(dcnt,"develop.pdf")
 
