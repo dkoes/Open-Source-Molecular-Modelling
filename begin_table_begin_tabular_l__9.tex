@@ -1,5 +1,9 @@
 \begin{table} 
-    \begin{tabular}{ l l c c c  }
+\footnotesize
+\iflatexml\else
+\resizebox{\linewidth}{!}{
+\fi
+    \begin{tabular}{ l p{3.5in} c c c  }
     Name & URL & License & Activity & Citation \\ \hline
     Avogadro & \url{http://avogadro.cc} &  GPL & A1 & \cite{Hanwell_2012} \\
     BALLView & \url{http://www.ball-project.org/ballview} & LPGL & A1  & \cite{Moll_2005} \\
@@ -14,7 +18,9 @@
     OpenRasMol & \url{https://sourceforge.net/projects/openrasmol} & GPL &  C1 & \\
     SPADE & \url{http://www.spadeweb.org} & BSD & C3 & \cite{sweeney2011computational} \\
 QuteMol & \url {http://qutemol.sourceforge.net} & GPL & C1 & \cite{Tarini_2006} \\
-
     \end{tabular} 
+\iflatexml\else
+}
+\fi
     \caption{\label{3ddesktopviz} Open-source tools for 3D molecular visualization and editing on the desktop.}
 \end{table}
