@@ -1,6 +1,8 @@
 \begin{table} 
 \footnotesize
-%\resizebox{\linewidth}{!}{%
+\iflatexml\else
+\resizebox{\linewidth}{!}{
+\fi
     \begin{tabular}{ l p{3.5in} c c c  }
     Name & URL & License & Activity & Citation \\ \hline
 cApp & \url{http://www.structuralchemistry.org/pcsb} & GPL & A3 & \cite{Amani_2015}\\
@@ -16,6 +18,9 @@ sdf2xyz2sdf & \url{http://sdf2xyz2sdf.sourceforge.net} & GPL & C2 & \cite{Tosco_
 sdsorter & \url{https://sourceforge.net/projects/sdsorter} & GPL & B3 & \\
 Shape & \url{http://sourceforge.net/projects/shapega} & GPL  & C3 & \cite{Rosen_2009}\\
 Strip-it\textsuperscript{TM}  & \url{http://silicos-it.be} & LGPL & C3 & \\
-    \end{tabular} %}
+    \end{tabular} 
+\iflatexml\else
+    }
+\fi
     \caption{\label{standalone}  Standalone cheminformatics programs.}
 \end{table}
