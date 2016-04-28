@@ -1,5 +1,9 @@
 \begin{table} 
-    \begin{tabular}{ l l c c c  }
+\footnotesize
+\iflatexml\else
+\resizebox{\linewidth}{!}{
+\fi
+    \begin{tabular}{ l p{3.5in} c c c  }
 Name & URL & License & Activity & Citation \\ \hline
      4D-FAP    &\url{http://www.ra.cs.uni-tuebingen.de/software/4DFAP} & LGPL & C4 & \cite{Jahn_2010} \\ 
      BlueDesc & \url{http://www.ra.cs.uni-tuebingen.de/software/bluedesc} & GPL & C4 & \\  
@@ -7,5 +11,8 @@ Name & URL & License & Activity & Citation \\ \hline
        PaDEL-descriptor &  \url{http://www.yapcwsoft.com/dd/padeldescriptor} & Public Domain & C2 & \cite{Yap_2010} \\ 
         TMACC &  \url{http://comp.chem.nottingham.ac.uk/download/tmacc} & GPL & C4 & \cite{Melville_2007} \\ 
     \end{tabular} 
+\iflatexml\else
+}
+\fi
     \caption{\label{descriptors} Tools for computing molecular descriptors.} 
 \end{table}
