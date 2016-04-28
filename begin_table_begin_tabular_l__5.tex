@@ -1,5 +1,9 @@
 \begin{table} 
-    \begin{tabular}{ l l c c c  }
+\footnotesize
+\iflatexml\else
+\resizebox{\linewidth}{!}{
+\fi
+    \begin{tabular}{ l p{3.5in} c c c  }
     Name & URL & License & Activity & Citation \\ \hline
 ADplugin & \url{https://github.com/ADplugin/ADplugin} & LGPL & A2 &\\
 APBS & \url{http://www.poissonboltzmann.org} & BSD & A1 & \cite{Baker_2001} \\
@@ -20,5 +24,8 @@ VinaLC	& \url{http://mvirdb1.llnl.gov/static_catsid/vina} & Apache & C2 & \cite{
 VinaMPI & \url{http://cmb.ornl.gov/~sek/} & Apache & C3 & \cite{Ellingson_2013} \\
 Zodiac & \url{https://sourceforge.net/projects/zodiac-zeden} & GPL & C1 & \cite{Zonta_2008} \\
     \end{tabular} 
+\iflatexml\else
+}
+\fi
     \caption{\label{structable} Software for molecular docking and scoring.}
 \end{table}
