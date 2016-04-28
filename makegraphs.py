@@ -74,15 +74,16 @@ for doi in dois:
 def makepie(cnt,name,num=-1):
     labels = []
     x = []
+    total = float(np.sum(cnt.values()))
     for (l,val) in sorted(cnt.iteritems(), key=lambda (l,val): val, reverse=True):
-        labels.append(l)
+        labels.append('%s (%.0f%%)' % (l,100*val/total))
         x.append(val)
-        
+    
     if num > 0 and num < len(x):
         extra = np.sum(x[num:])
         x = x[:num]
         labels = labels[:num]
-        labels.append('Other')
+        labels.append('Other (%.0f%%)' % (100*extra/total))
         x.append(extra)
     plt.figure(figsize=(6,6))
     plt.axis('equal')
