@@ -1,5 +1,9 @@
 \begin{table} 
-    \begin{tabular}{ l l c c c  }
+\footnotesize
+\iflatexml\else
+\resizebox{\linewidth}{!}{
+\fi
+    \begin{tabular}{ l p{3.5in} c c c  }
     Name & URL & License & Activity & Citation \\ \hline
 eFindSite & \url{http://brylinski.cct.lsu.edu/efindsite} & GPL & C3 & \cite{Brylinski_2013} \\
 fpocket & \url{http://fpocket.sourceforge.net} & GPL & C1 & \cite{Schmidtke_2011} \\
@@ -11,5 +15,8 @@ PocketPicker & \url{http://gecco.org.chemie.uni-frankfurt.de/pocketpicker} & BSD
 POVME & \url{https://sourceforge.net/projects/povme/} & GPL  & C1 & \cite{Durrant_2014} \\
 VHELIBS & \url{http://urvnutrigenomica-ctns.github.io/VHELIBS} & GPL & A2 & \cite{Cereto_Massagu__2013} \\
     \end{tabular} 
+\iflatexml\else
+}
+\fi
         \caption{\label{pockettable} Software for pocket detection.}
 \end{table}
