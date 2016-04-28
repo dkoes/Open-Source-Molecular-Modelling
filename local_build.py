@@ -27,7 +27,7 @@ MAIN_TEMPLATE = r"""
 
 {headerin}
 
-
+\newif\iflatexml\latexmlfalse
 \begin{{document}}
 
 \begin{{frontmatter}}
