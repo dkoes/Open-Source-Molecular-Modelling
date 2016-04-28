@@ -1,4 +1,4 @@
-APBS \cite{Baker_2001} performs solvation free energy calculations using the Poisson-Boltzmann implicit solvent method.
+\paragraph{Simulation Software}
 
 Campari \cite{Vitalis_2009} conducts flexible Monte Carlo sampling of biopolymers in internal coordinate space, with built-in analysis routines to estimate structural properties and support for replica exchange and Wang-Landau sampling.
 
@@ -8,21 +8,31 @@ Iphigenie \cite{Lorenzen_2012} is a molecular mechanics program that features po
 
 LAMMPS  (Large-scale Atomic/Molecular Massively Parallel Simulator) \cite{Plimpton_1995} is a highly modular classical molecular dynamics simulator that includes a diverse array of energy potentials and integrators.
 
+MDynaMix \cite{Lyubartsev_2000} is a basic general purpose molecular dynamics package.
+
+MMTK (Molecular Modelling Toolkit) \cite{Hinsen_2000} is a library written in Python (with some time critical parts written in C) for constructing and simulating molecular systems.  Its capabilities include molecular dynamics, energy minimization, and normal mode analysis.
+
+OpenMM  \cite{Eastman_2013} is a substantial toolkit for high performance molecular dynamics simulations that includes support for GPU acceleration.
+
+ProtoMol \cite{Matthey_2004}, and the associated MDLab Python bindings \cite{Cickovski_2009}, provides an object-oriented framework for prototyping algorithms for molecular dynamics simulations and includes an interface to OpenMM.
+
+ProtoMS \cite{Michel_2006} is a Monte Carlo biomolecular simulation program which can be used to calculate relative and absolute free energies and water placement with GCMC and JAWS methodology.
+
+Sire is a collection of modular libraries intended to facilitate fast prototyping and the development of new algorithms for molecular simulation and molecular design. It has apps for system setup, simulation, and analysis.
+
+yank is built off of OpenMM and provides Python interface for performing alchemical free energy calculations.
+
+\paragraph{Simulation Setup and Analysis}
+
 LOOS (Lightweight Object-Oriented Structure library) \cite{Romo_2014} is a C++ library (with Python bindings) for reading and analyzing molecular dynamics trajectories that also includes a number of standalone analysis programs.
 
 lsfitpar \cite{Vanommeslaeghe_2015} derives bonded parameters for Class I force fields by performing a robust fit to potential energy scans provided by the user.
 
 MDAnalysis  \cite{Michaud_Agrawal_2011} is a Python library for reading and analyzing molecular dynamics simulations with some time critical sections written in C.
 
-MDynaMix \cite{Lyubartsev_2000} is a basic general purpose molecular dynamics package.
-
 MEMBPLUGIN \cite{Guixa-Gonzalez_2014} analyzes molecular dynamics simulations of lipid bilayers and is most commonly used as a VMD plugin.
 
 MEPSA (Minimum Energy Pathway Analysis) \cite{Marcos_Alcalde_2015} provides tools for analyzing energy landscapes and pathways.
-
-MMTK (Molecular Modelling Toolkit) \cite{Hinsen_2000} is a library written in Python (with some time critical parts written in C) for constructing and simulating molecular systems.  Its capabilities include molecular dynamics, energy minimization, and normal mode analysis.
-
-OpenMM  \cite{Eastman_2013} is a substantial toolkit for high performance molecular dynamics simulations that includes support for GPU acceleration.
 
 PDB2PQR \cite{Dolinsky_2007} prepares structures for electrostatics calculations by adding hydrogens, calculating sidechain pKa, adding missing heavy atoms, and assigning force field-dependent parameters; users can specify an ambient pH.
 
@@ -30,18 +40,11 @@ PLUMED \cite{Tribello_2014} interfaces with an assortment of molecular dynamics 
 
 ProDy \cite{Bakan_2011} is a Python toolkit for analyzing proteins and includes facilities for trajectory analysis and druggability predictions using simulations of molecular probes \cite{Bakan_2012}.
 
-ProtoMol \cite{Matthey_2004}, and the associated MDLab Python bindings \cite{Cickovski_2009}, provides an object-oriented framework for prototyping algorithms for molecular dynamics simulations and includes an interface to OpenMM.
-
-ProtoMS \cite{Michel_2006} is a Monte Carlo biomolecular simulation program which can be used to calculate relative and absolute free energies and water placement with GCMC and JAWS methodology.
-
 Pteros \cite{Yesylevskyy_2015} is a C++ library (with Python bindings) for reading and analyzing molecular dynamics trajectories.
 
-PyEMMA \cite{Scherer_2015} is a Python library for performing kinetic and thermodynmic analyses of molecular dynamics simulations using Markov models. 
+PyEMMA \cite{Scherer_2015} is a Python library for performing kinetic and thermodynamic analyses of molecular dynamics simulations using Markov models. 
 
 PyRED \cite{Dupradeau_2010} generates RESP and ESP charges for the AMBER, CHARMM, OPLS, and Glycam and force fields.
 
-Sire is a collection of modular libraries intended to facilitate fast prototyping and the development of new algorithms for molecular simulation and molecular design. It has apps for system setup, simulation, and analysis.
-
 WHAM (Weighted Histogram Analysis Method) calculates the potential of mean force (PMF) from umbrella sampling simulations.
 
-yank is built off of OpenMM and provides Python interface for performing alchemical free energy calculations.
