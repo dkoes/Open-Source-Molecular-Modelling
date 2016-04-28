@@ -1,5 +1,9 @@
 \begin{table} 
-    \begin{tabular}{ l l c c c  }
+\footnotesize
+\iflatexml\else
+\resizebox{\linewidth}{!}{
+\fi
+    \begin{tabular}{ l p{3.5in} c c c  }
     Name & URL & License & Activity & Citation \\ \hline
 Campari & \url{http://campari.sourceforge.net/index.html} & GPL & B1 & \cite{Vitalis_2009} \\
 Gromacs & \url{http://www.gromacs.org} & LGPL & A1 & \cite{Pronk_2013} \\
@@ -13,5 +17,8 @@ ProtoMS & \url{http://www.essexgroup.soton.ac.uk/ProtoMS/index.html} & GPL & A2 
 Sire & \url{http://siremol.org} & GPL & C3 & \\
 yank & \url{http://getyank.org} & LGPL & A1 & \\
     \end{tabular} 
+\iflatexml\else
+}
+\fi
     \caption{\label{mdtable} Open source software for performing molecular simulations.}
 \end{table}
