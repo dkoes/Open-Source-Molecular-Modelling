@@ -1,13 +1,13 @@
-\paragraph{Toolkits (Table~\ref{chemtool})} 
+\subsection*{Toolkits (Table~\ref{chemtool})} 
 The Biochemical Algorithms Library (BALL) \cite{Hildebrandt_2010} provides an object-oriented C++ library for structural bioinformatics, and its capabilities include molecular mechanics, support for reading and writing a variety of file formats, protein-ligand scoring, docking, and QSAR modeling.
 
 The Chemistry Development Kit (CDK) \cite{Steinbeck_2006} is a cheminformatics toolkit written in Java.  Its capabilities include support for reading and writing a variety of chemical formats, descriptor and fingerprint calculation, force field calculations, substructure search, and structure generation.
 
 Chem$^f$ \cite{H_ck_2012} is a minimal cheminformatics toolkit written in the functional language Scala.
 
-chemkit is a C++ cheminformatics toolkit that includes support for visualization and molecular modeling.
+chemkit is a C++ cheminformatics toolkit that includes support for visualization with the Qt framework and molecular modeling.
 
-ChemmineR \cite{Cao_2008}  is a cheminformatics package for the R statistical programming languages that is built using OpenBabel. Its capabilities include property calculations, similarity search, and classification and clusters of compounds.
+ChemmineR \cite{Cao_2008}  is a cheminformatics package for the R statistical programming languages that is built using Open Babel. Its capabilities include property calculations, similarity search, and classification and clustering of compounds.
 
 Cinfony \cite{cinfony} provides a single, simple standardized interface to other cheminformatics toolkits, including Open Babel, RDKit, the CDK, Indigo, JChem, OPSIN, and several web services.
 
@@ -15,7 +15,7 @@ CurlySMILES \cite{Drefahl_2011} provides parsing functionality for an extension 
 
 DisCuS (Database System for Compound Selection) \cite{W_jcikowski_2014} provides support for analyzing the results of a high-throughput screen.
 
-Fafoom (flexible aalgorithm for optimization of molecules) \cite{Supady_2015} is a Python library for identifying low energy conformers using a genetic algorithm.
+Fafoom (flexible algorithm for optimization of molecules) \cite{Supady_2015} is a Python library for identifying low energy conformers using a genetic algorithm.
 
 fmcsR \cite{Goecks_2010} is an R package that efficiently performs flexible maximum common substructure matching that allows minor mismatches between atoms and bonds in the common substructure.
 
@@ -33,13 +33,13 @@ MayChemTools is a collection of Perl scripts for manipulating chemical data, int
 
 Mychem is built using OpenBabel and provides an extension to the MySQL database package that adds the ability to search, analyze, and convert chemical data within a MySQL database.
 
-The Open Drug Discovery Toolkit (ODDT) \cite{W_jcikowski_2015} is entirely written in Python, is built on top of RDKit and OpenBabel, and is focused on providing enhanced functionality for managing and implementing drug discovery workflows, such as making it easy to implement a docking pipeline. 
+The Open Drug Discovery Toolkit (ODDT) \cite{W_jcikowski_2015} is entirely written in Python, is built on top of RDKit and Open Babel, and is focused on providing enhanced functionality for managing and implementing drug discovery workflows, such as making it easy to implement a docking pipeline. 
 
 Open Babel \cite{O_Boyle_2011} is substantial cheminformatics toolkit written in C++ with Python, Perl, Java, Ruby, R, PHP, and Scala bindings.  Its capabilities include support for more than 100 chemical file formats, fingerprint generation, property determination, similarity and substructure search, structure generation, and molecular force fields.  It has absorbed the Confab \cite{confab} conformer generator which produces 3D structures through the systematic enumeration of torsions and energy minimization.
 
 OPSIN \cite{Lowe_2011}, the Open Parser for Systematic IUPAC nomenclature, converts plain-text chemical nomenclature to machine readable CML or InChi formats.
 
-OrChem is built using the CDK and provides an extension to Oracle databases that adds the ability to incorporate and search chemical data within an Oracle database.
+OrChem is built using the CDK and provides an extension to Oracle databases that adds the ability to incorporate and search chemical data.
 
 OSRA \cite{Filippov_2009} provides optical structure recognition. It takes as input an image and generates a SMILES string.
 
@@ -56,17 +56,17 @@ The Small Molecule Subgraph Detector (SMSD) \cite{Rahman_2009} is a Java library
 Som-it\textsuperscript{TM}  is an R package for creating and visualizing self-organizing maps from large datasets.
 
 
-\paragraph{Standalone Programs (Table~\ref{standalone})}
+\subsection*{Standalone Programs (Table~\ref{standalone})}
 
 cApp \cite{Amani_2015} is a Java application that provides tools for evaluating physico-chemical properties, performing similarity searches, and querying the PubChem database.
 
 The utilities checkmol and matchmol \cite{Haider_2010} decompose and compare functional groups of input molecules.
 
-ConvertMAS is a utility for converting between formates and merging and splitting multi-molecule files.
+ConvertMAS is a utility for converting between formats and merging and splitting multi-molecule files.
 
 Filter-it\textsuperscript{TM} filters a set of molecules based on their properties such as physicochemical parameters and graph-based properties. 
 
-Frog2 \cite{Miteva_2010} uses a two stage Monte Carlo approach coupled with energy minimization to rapidly generate conformers.
+Frog2 \cite{Miteva_2010} uses a two stage Monte Carlo approach coupled with energy minimization to rapidly generate 3D conformers.
 
 The Lilly MedChem Rules (LMR)  \cite{Bruns_2012} apply filters to avoid reactive and promiscuous compounds.
 
@@ -85,13 +85,13 @@ Shape \cite{Rosen_2009} employs a genetic algorithm to generate conformations of
 Strip-it\textsuperscript{TM} is built using Open Babel and extracts molecular scaffolds. 
 
 
-\paragraph{Graphical Development Environments (Table~\ref{chemgui})} 
+\subsection*{Graphical Development Environments (Table~\ref{chemgui})} 
 
-Ambit \cite{Jeliazkova_2011} integrates with CDK to provide web-based applications for chemical search and analysis.
+Ambit \cite{Jeliazkova_2011} integrates with the CDK to provide web-based applications for chemical search and analysis.
 
-Bioclipse  \cite{Spjuth_2009} is a workbench, based on the Eclipse framework, for manipulating and analyzing biochemical data and databases. It integrates with CDK and Jmol to provide cheminformatic functionality and also has modules for bioinformatics (primarly sequence analysis) and QSAR modeling.
+Bioclipse  \cite{Spjuth_2009} is a workbench, based on the Eclipse framework, for manipulating and analyzing biochemical data and databases. It integrates with the CDK and Jmol to provide cheminformatic functionality and also has modules for bioinformatics (primarly sequence analysis) and QSAR modeling.
 
-Galaxy \cite{Goecks_2010} is a web platform for exploring biomedical data and includes as a component a Chemical Toolbox that integrates a number of other cheminformatics tools to offer an array of molecular search, property calculation, clustering, and manipulations capabilities.
+Galaxy \cite{Goecks_2010} is a web platform for exploring biomedical data and includes as a component a Chemical Toolbox that integrates a number of other cheminformatics tools to offer an array of molecular search, property calculation, clustering, and manipulation capabilities.
 
 The Konstanz Information Miner (KNIME) is a general workflow environment that includes a number of plugins for cheminformatics, such as CDK \cite{Beisken_2013} and RDKit modules, as well as bioinformatics and machine learning modules.
 
