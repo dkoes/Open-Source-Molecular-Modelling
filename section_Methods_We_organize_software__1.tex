@@ -1,22 +1,23 @@
 \section{Methods}
 
-We organize software packages into eight categories: cheminformatics, visualization, QSAR (quantitative structure–activity relationship) and ADMET modeling, quantum chemistry, ligand dynamics and free energy calculations, virtual screening, and ligand design.
-We identified open source software package by browsing the relevant categories (Molecular Science, Chemistry, Bio-Informatics, Medical Science) on the popular SourceForge (\url{http://sourceforge.net}) repository, searching for categories on GitHub (\url{http://github.com}), searching for categories on OpenHub (\url{https://www.openhub.net}), searching for categories together with ``open source software'' on Google, and browsing the Click2Drug (\url{http://click2drug.org}) and VLS3D \cite{Villoutreix_2013} directories.
+We organize software packages into seven categories: cheminformatics, visualization, QSAR (quantitative structure–activity relationship) and ADMET modeling, quantum chemistry, ligand dynamics and free energy calculations, and virtual screening (including ligand design).
+We identified open source software packages by browsing the relevant categories (Molecular Science, Chemistry, Bio-Informatics, Medical Science) on the popular SourceForge (\url{http://sourceforge.net}) repository, searching for categories on GitHub (\url{http://github.com}), searching for categories on OpenHub (\url{https://www.openhub.net}), searching for categories together with ``open source software'' on Google, and browsing the Click2Drug (\url{http://click2drug.org}) and VLS3D \cite{Villoutreix_2013} directories.
 
-For every identified software package, we report its primary URL and software license and assign it an activity code. For simplicity, BSD-like licenses (e.g. NCSA) are reported as BSD. Activity codes consist of a development activity level (alphabetical) and usage activity level (numerical). In cases where download statistics are not available/applicable usage is subjectively ranked based on external references to the tool (e.g., message list posts, source code forks, citations reported by Google Scholar, etc.).  In cases were a package does not follow an open development model (i.e., source is only released with official releases) the estimate of development activity will be overly conservative.
-
+For every identified software package, we report its primary URL and software license and assign it an activity code. For simplicity, BSD-like licenses (e.g. NCSA) are reported as BSD. Activity codes consist of a development activity level (alphabetical) and usage activity level (numerical). Activity codes were assigned as follows:
+\subsubsection*{Development Activity}
 \begin{description}
   \item[A] Substantial development (e.g. a new major release, the addition of new features, or substantial refinements of existing features) within the last 18 months. Note this includes all projects that were created in the last 18 months.
   \item[B] Evidence of some development within the last 18 months such as a minor release or bug fixes to a development branch.
-  \item[C] No evidence of development (changes to the source code or documentation) within the last 18 months. 
+  \item[C] No evidence of development (changes to the source code or documentation) within the last 18 months. Note that in cases where a package does not follow an open development model (i.e., source is only released with official releases) the estimate of development activity will be overly conservative.
 \end{description}
+\subsubsection*{Usage Activity}
 \begin{enumerate}
-  \item Substantial user usage within the last 18 months (more than 10 downloads in the last month from SourceForge, more than 20 stars or forks on GitHub, more than 10 citations a year, and/or a clearly active user community as indicated by traffic on mailing lists or discussion boards).
+  \item Substantial user usage within the last 18 months (more than 10 downloads a month on average from SourceForge, more than 20 stars or forks on GitHub, more than 10 citations a year, and/or a clearly active user community as indicated by traffic on mailing lists or discussion boards).
   \item Moderate user usage within the last 18 months.
     \item Minimal or no identifiable user usage within the last 18 months (fewer than 50 downloads total on SourceForge, three or fewer stars and/or forks on GitHub, or fewer than one citation a year).
 \end{enumerate}
 
-We omit some packages with extended periods of inactivity where there is little evidence of any usage (e.g. downloads) or packages that are referenced in the literature but for which we could not find a source code repository.  We also omit packages that provide common and/or trivial functionality (e.g. molecular weight calculators) and those that require non-open source packages in order to function.
+We omit some packages with extended periods of inactivity (e.g. more than 10 years) where there is little evidence of any usage or packages that are referenced in the literature but for which we could not find a extant source code repository.  We also omit packages that provide common and/or trivial functionality (e.g. molecular weight calculators) and those that require non-open source packages in order to function.
 
 
 
