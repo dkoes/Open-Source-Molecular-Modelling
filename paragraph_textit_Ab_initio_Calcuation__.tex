@@ -1,15 +1,15 @@
-\paragraph{\textit{Ab initio} Calcuation (Table~\ref{abinitio})}
+\subsection*{\textit{Ab initio} Calcuation (Table~\ref{abinitio})}
 
-ABINIT \cite{Gonze_2009} is a quantum package which is able to calculate the total energy, charge density and electronic structure of molecules and periodic solids within density functional theory (DFT) and Many-Body Perturbation Theory (MBPT), using pseudopotentials and a planewave or wavelet basis. ABINIT also can optimize the geometry, perform molecular dynamics simulations, or generate dynamical matrices, Born effective charges, and dielectric tensors and many more properties. 
+ABINIT \cite{Gonze_2009} can calculate the total energy, charge density and electronic structure of molecules and periodic solids with density functional theory (DFT) and Many-Body Perturbation Theory (MBPT), using pseudopotentials and a planewave or wavelet basis. ABINIT also can optimize the geometry, perform molecular dynamics simulations, or generate dynamical matrices, Born effective charges, and dielectric tensors and many more properties. 
 
-ACES \cite{Lotrich_2008} is a collection of programs that perform \textit{ab initio} quantum chemistry calculations such as single point energy calculations, analytical gradients, and analytical Hessians, and is highly parallelized, including support for GPU computing.
+ACES \cite{Lotrich_2008} performs calculations such as single point energy calculations, analytical gradients, and analytical Hessians, and is highly parallelized, including support for GPU computing.
 A focus of ACES is the use of MBPT and the coupled-cluster approximation to reliable treat electron correlation.
 
-BigDFT \cite{Genovese_2008,Mohr_2014,Mohr_2015} 1performs \textit{ab initio} calculations using Daubechies wavelets and has the capability to use a linear scaling method.  Periodic systems, surfaces and isolated systems can be simulated with the proper boundary conditions. It is included as part of ABINIT.
+BigDFT \cite{Genovese_2008,Mohr_2014,Mohr_2015} performs \textit{ab initio} calculations using Daubechies wavelets and has the capability to use a linear scaling method.  Periodic systems, surfaces and isolated systems can be simulated with the proper boundary conditions. It is included as part of ABINIT.
 
 CP2K \cite{Hutter_2013} performs simulations of solid state, liquid, molecular and biological systems. Its particular focus is massively parallel and linear scaling electronic structure methods and state-of-the-art \textit{ab-initio} molecular dynamics (AIMD) simulations. It is optimized for the mixed Gaussian and Plane-Waves method using pseudopotentials and can run on parallel and on GPUs.
 
-Dacapo is a total energy program that uses density functional theory. It can do molecular dynamics/structural relaxation while solving the Schrodinger equations. It has support for parallel execution and is used through the Atomic Simulation Environment (ASE) \cite{Bahn_2002}
+Dacapo is a total energy program that uses density functional theory. It can do molecular dynamics/structural relaxation while solving the Schr\"odinger equations. It has support for parallel execution and is used through the Atomic Simulation Environment (ASE) \cite{Bahn_2002}
 
 ErgoSCM \cite{Rudberg_2011} is a quantum chemistry program for large-scale self-consistent field calculations. It performs electronic structure calculations using Hartree-Fock and Kohn-Sham density functional theory and achieves linear scaling for both CPU usage and memory utilization.
 
@@ -29,7 +29,7 @@ Octopus pervorms \textit{ab initio} calculations using time-dependent DFT (TDDFT
 
 OpenMX (Open source package for material eXplorer) \cite{Ozaki_2005} is designed for nano-scale material simulations based on DFT, norm-conserving pseudopotentials, and pseudo-atomic localized basis functions. OpenMX is capable of performing calculations of physical properties such as magnetic, dielectric, and electric transport properties and is optimized for large-scale parallelism.
 
-Psi4 \cite{Turney_2011} is a suite of \textit{ab initio} quantum chemistry programs that supports a wide range of computations (e.g., Hartree–Fock, MP2, coupled-cluster) and general procedures such as geometry optimization and vibrational frequency analysis with more than 2500 basis functions running serially or in parallel.
+Psi4 \cite{Turney_2011} is a suite of \textit{ab initio} quantum chemistry programs that supports a wide range of computations (e.g., Hartree–Fock, MP2, coupled-cluster) and general procedures such as geometry optimization and vibrational frequency analysis with more than 2500 basis functions.
 
 PyQuante is a collection of modules, mostly written in Python, for performing Hartree-Fock and DFT calculations with a focus on providing a well-engineered set of tools. A new version is under development (\url{https://github.com/rpmuller/pyquante2}).
 
@@ -44,7 +44,7 @@ RMG \cite{moore2012scaling} is a DFT code that uses real space grids to provide 
 Siam Quantum (SQ) is optimized for parallel computation and its capabilities include the calculation of Hartree-Fock and MP2 energies, minimum energy crossing point calculations, geometry optimization, population analysis, and quantum molecular dynamics.
 
 
-\paragraph{Helper Applications (Table~\ref{qmhelp})}
+\subsection*{Helper Applications (Table~\ref{qmhelp})}
 FragIt \cite{Steinmann_2012} generates fragments of large molecules to use as input files in quantum chemistry programs that support fragment based methods.
 
 cclib \cite{O_boyle_2008} provides a consistent interface for parsing and interpreting the results of a number of quantum chemistry packages. 
@@ -58,7 +58,7 @@ Nancy\_EX \cite{Etienne_2014} post-processes Gaussian output and analyzes excite
 orbkit \cite{hermann2016orbkit} is a post-processing tool for the results of quantum chemistry programs.  It has native support for a number of programs (MOLPRO, TURBOMOLE, GAMESS-US, PROAIMS/AIMPAC, Gaussian) and additionally interfaces with cclib for additional file format support.  It can extract grid-based quantities such as molecular orbitals and electron density, as well as Muliken population charges and other properties.
 
 
-\paragraph{Visualization (Table~\ref{qmviz})}
+\subsection*{Visualization (Table~\ref{qmviz})}
 CCP1GUI provides a graphical user interface to various computational chemistry codes with an emphasis on integration with the GAMESS-UK quantum chemistry program.
 
 ccwatcher provides a graphical interface for the monitoring of computational chemistry programs.
