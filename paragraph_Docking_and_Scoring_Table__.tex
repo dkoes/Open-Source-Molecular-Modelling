@@ -6,9 +6,9 @@ APBS \cite{Baker_2001} performs solvation free energy calculations using the Poi
 
 AutoDock \cite{Morris_2009} is an automated docking program that uses a physics-based semiempirical scoring function \cite{Huey_2007} mapped to atom type grids to evaluate poses and a genetic algorithm to explore the conformational space.  It includes the ability to incorporate sidechain flexibility and covalent docking.
 
-AutoDock Vina \cite{Trott_2009} is an entirely separate code base and approach from Autodock that was developed with a focus runtime performance and ease of system setup. It uses a fully empirical scoring function and an iterated local search global optimizer to produce docked poses. It includes support for multi-threading and flexible sidechains.
+AutoDock Vina \cite{Trott_2009} is an entirely separate code base and approach from Autodock that was developed with a focus on runtime performance and ease of system setup. It uses a fully empirical scoring function and an iterated local search global optimizer to produce docked poses. It includes support for multi-threading and flexible sidechains.
 
-Clusterizer-DockAccessor \cite{Ballante_2016} are tools for accessing the quality of docking protocols. It interfaces with a number of open-source and free tools.
+Clusterizer-DockAccessor \cite{Ballante_2016} are tools for accessing the quality of docking protocols. It interfaces with a number of open source and free tools.
 
 DockoMatic \cite{Bullock_2013}  provides a graphical user interface for setting up and analyzing AutoDock and AutoDock Vina docking jobs, including when run on a cluster. It also includes the ability to run inverse virtual screens (find proteins that bind a given ligand) and support for homology model construction.
 
@@ -20,7 +20,7 @@ MOLA \cite{Abreu_2010} is a pre-packaged distribution of AutoDock and AutoDock V
 
 NNScore \cite{Durrant_2011} uses a neural network model to score protein-ligand poses.
 
-Paradocks \cite{Meier_2010} is a parallelized docking program that includes a number of population-based metaheuristics, such as particle swarm optimization, for exploring the 
+Paradocks \cite{Meier_2010} is a parallelized docking program that includes a number of population-based metaheuristics, such as particle swarm optimization, for exploring the space of potential poses.
 
 PyRx \cite{Dallakyan_2014} is a visual interface for AutoDock and AutoDock Vina that simplifies setting up and analyzing docking workflows.  Its future as an open-source solution is in doubt due to a recent shift to commercialization.
 
@@ -30,13 +30,15 @@ RF-Score \cite{Li_2015,Ballester_2010} uses a random forest classifier to score 
 
 smina \cite{Koes_2013} is a fork of AutoDock Vina designed to better support energy minimization and custom scoring function development (scoring function terms and atom type properties can be specified using a run-time configuration file). It also simplifies the process of setting up a docking run with flexible sidechains.
 
+VHELIBS (Validation HElper for LIgands and Binding Sites) \cite{Cereto_Massagu__2013} assists the non-crystallographer in validating ligand geometries with respect to electron density maps.
+
 VinaLC  \cite{Zhang_2013} is a fork of AutoDock Vina designed to run on a cluster of multiprocessor machines.
 
 VinaMPI \cite{Ellingson_2013} is a wrapper for AutoDock Vina that uses OpenMPI to run large-scale virtual screens on a computing cluster.
 
 Zodiac \cite{Zonta_2008} is a visual interface for structure-based drug design that includes support for haptic feedback.
 
-\paragraph{Pocket Detection (Table~\ref{pockettable})}
+\subsection*{Pocket Detection (Table~\ref{pockettable})}
 eFindSite \cite{Brylinski_2013} using homology modeling and machine learning to predict ligand binding sites in a protein structure.
 
 fpocket  \cite{Schmidtke_2011} detects and delineates protein cavities using Voronoi tessellation and is able to process molecular dynamics simulations.
@@ -53,5 +55,4 @@ PocketPicker \cite{Weisel_2007}  is a PyMOL plugin that automatically identifies
 
 POVME (POcket Volume MEasurer) \cite{Durrant_2014} is tool for measuring and characterizing pocket volumes that includes a graphical user interface.
 
-VHELIBS (Validation HElper for LIgands and Binding Sites) \cite{Cereto_Massagu__2013} assists the non-crystallographer in validating ligand geometries with respect to electron density maps.
 
