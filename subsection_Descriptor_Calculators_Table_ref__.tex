@@ -12,36 +12,36 @@ Topological maximum cross correlation descriptors (TMACC) \cite{Melville_2007} g
 \subsection*{Model Building (Table~\ref{qsarmodel})}
 AZOrange \cite{St_lring_2011} is a machine learning package that supports QSAR model building in a full work flow from descriptor computation to automated model building, validation and selection. It promotes model accuracy by using several high performance machine learning algorithms for efficient data set specific selection of the statistical approach.
 
-Bioalerts \cite{Cortes_Ciriano_2016} uses RDKit fingerprint to create models from discrete (e.g., toxic/non-toxic) and continuous data.  It includes the capability to visualize problematic functional groups.
+Bioalerts \cite{Cortes_Ciriano_2016} uses RDKit fingerprints to create models from discrete (e.g., toxic/non-toxic) and continuous data.  It includes the capability to visualize problematic functional groups.
 
-Chemistry aware model builder (camb) \cite{Murrell_2015} is an R package for the generation of quantitative models. Its features include descriptor calculation (including 905 two-dimensional and 14 fingerprint type descriptors for small molecules, 13 whole protein sequence descriptors, and 8 types of amino acid descriptors), model generation, ensemble modeling, and visualization (With ggplot2).
+Chemistry aware model builder (camb) \cite{Murrell_2015} is an R package for the generation of quantitative models. Its capabilities include descriptor calculation (including 905 two-dimensional and 14 fingerprint type descriptors for small molecules, 13 whole protein sequence descriptors, and 8 types of amino acid descriptors), model generation, ensemble modeling, and visualization.
 
 eTOXLab \cite{Carri__2015} provides a portable modeling framework embedded in a self-contained virtual machine for easy deployment.
 
-Open3DGrid and Open3DQSAR \cite{Tosco_2010} are a suite of related tools that aid in developed 3D QSAR models.  Open3DGrid generates molecular interaction fields (MIFs) in a variety of formats, and Open3DQSAR builds predictive models from the MIFs of aligned molecules.  Calculations can be visualized in real time in PyMOL.
+Open3DGrid and Open3DQSAR \cite{Tosco_2010} are a suite of related tools that build 3D QSAR models.  Open3DGrid generates molecular interaction fields (MIFs) in a variety of formats, and Open3DQSAR builds predictive models from the MIFs of aligned molecules.  Calculations can be visualized in real time in PyMOL.
 
-QSAR-tools is a set of Python scripts that use RDKit to model quantitative structure activity relationships from 2D chemical data. It inputs SMILES file of a training set and computes a set of smarts descriptors unique to that set. By using a fingerprint file, it trains a linear model to predict a numerical quantity of interest and is capable of mapping the model onto the compound to produce an image.
+QSAR-tools is a set of Python scripts that use RDKit to build linear QSAR models from 2D chemical data. 
 
-\paragraph{Model Application (Table~\ref{qsarapply})}
+\subsection*{Model Application (Table~\ref{qsarapply})}
 
-SMARTCyp \cite{Rydberg_2010} is a QSAR model that predicts the sites of cytochrome P450-mediated metabolism of drug like molecules directly from the 2D structure of a molecule using fragment based energy rules.
+SMARTCyp \cite{Rydberg_2010} is a QSAR model that predicts the sites of cytochrome P450-mediated metabolism of drug-like molecules directly from the 2D structure of a molecule using fragment-based energy rules.
 
 Toxtree \cite{Patlewicz_2008} is a Java GUI application for estimating the ``toxic hazard'' of molecules using a variety of toxicity prediction modules, such as oral toxicity, skin  and eye irritation prediction, covalent protein binding and DNA binding, Cytochrome P450-mediated drug metabolism (using SMARTCyp) and more.
 
 UG-RNN/AquaSol \cite{Lusci_2013} is an undirected graph recursive neural network that has been trained to predict aqueous solubility from molecular graphs. 
 
-\paragraph{Visualization (Table~\ref{qsarviz})}
-CheS-Mapper (chemical space mapper) \cite{G_tlein_2012,G_tlein_2014}. is a 3D-viewer for small compounds in chemical datasets. It embeds a dataset into 3D space in such a way that the relationship between the structure of chemical compounds, their physico-chemical properties, and biological or toxic effects can be analyzed. In chemical space, compounds that have similar descriptor values places close to each other. CheS-Mapper can calculate variety of descriptors and supports clustering and 3D alignment  
+\subsection*{Visualization (Table~\ref{qsarviz})}
+CheS-Mapper (chemical space mapper) \cite{G_tlein_2012,G_tlein_2014}. is a 3D-viewer for small compounds in chemical datasets. It embeds a dataset into 3D space by performing dimensionality reduction on the properties of the compounds.
 
 DataWarrior \cite{Sander_2015} is a data visualization and analysis tool for chemical data with a rich set of available property calculations, similarity metrics, modeling capabilities, and data set representations.
 
-DecoyFinder \cite{Cereto_Massague_2012} provides a GUI selecting a set of decoy compounds from a large library that are appropriate matches to a given set of actives.
+DecoyFinder \cite{Cereto_Massague_2012} provides a GUI for selecting a set of decoy compounds from a large library that are appropriate matches to a given set of actives.
 
  Scaffold Hunter \cite{Wetzel_2009} provides a Java-based GUI for visualizing the relationship between compounds in a dataset.
 
 Synergy Maps \cite{Lewis_2015} visualizes synergistic activity extracted from screens of drug combinations. 
 
-VIDEAN (visual and interactive descriptor analysis) \cite{Mart_nez_2015} is a visual tool for choosing a subset of descriptors appropriate for predicting a target property with aid of statistical methods.  Descriptor selection and model building are performed iteratively at the direction of the user.
+VIDEAN (visual and interactive descriptor analysis) \cite{Mart_nez_2015} is a visual tool for iteratively choosing a subset of descriptors appropriate for predicting a target property with the aid of statistical methods.  
 
 WCSE (Wikipedia chemical structure explorer) \cite{Ertl_2015} runs as a web application and provides a 2D interface for visualizing and searching for 2D molecules.
 
